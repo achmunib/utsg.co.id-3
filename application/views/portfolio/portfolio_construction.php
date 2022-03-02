@@ -7,7 +7,7 @@
         <div class="d-flex justify-content-between align-items-center">
           <h2>Portfolio Details</h2>
           <ol>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="<?=base_url();?>">Home</a></li>
             <li>Portfolio Project</li>
           </ol>
         </div>
@@ -29,13 +29,45 @@
             <h1 class="postcard__title blue">Jasa Konstruksi Cement Plant Project</h1>
             <div class="postcard__bar"></div>
             <div class="postcard__preview-txt">
-              <strong>Project </strong>: Pek. Cut & Fill Pabrik Tuban IV <br>
-              <strong>Tahun </strong>: 2010 <br>
-              <strong>Lokasi </strong>: Tuban, Jawa Timur <br>
-              <strong>User </strong>: PT. Semen Indonesia (Persero), Tbk <br>
-              <strong>Material </strong>: Limestone <br>
-              <strong>Metode </strong>: Pemberaian dengan Blasting & Mekanis <br>
-              <strong>Deskripsi </strong>: Jasa Penambangan Quarry Limestone, Clay, Milling, & Supporting untuk Plant Tuban 1, 2, 3, & 4 <br>
+              <table class="table-responsive table-sm">
+                <tbody>
+                  <tr>
+                    <td><b>Project</b></td>
+                    <td>:</td>
+                    <td>Pek. Cut & Fill Pabrik Tuban IV</td>
+                  </tr>
+                  <tr>
+                    <td><b>Tahun</b></td>
+                    <td>:</td>
+                    <td>2010</td>
+                  </tr>
+                  <tr>
+                    <td><b>Lokasi</b></td>
+                    <td>:</td>
+                    <td>Tuban, Jawa Timur</td>
+                  </tr>
+                  <tr>
+                    <td><b>User</b></td>
+                    <td>:</td>
+                    <td>PT Semen Indonesia (Persero) Tbk</td>
+                  </tr>
+                  <tr>
+                    <td><b>Material</b></td>
+                    <td>:</td>
+                    <td>Limestone</td>
+                  </tr>
+                  <tr>
+                    <td><b>Metode</b></td>
+                    <td>:</td>
+                    <td>Pemberaian dengan Blasting & Mekanis</td>
+                  </tr>
+                  <tr>
+                    <td><b>Deskripsi</b></td>
+                    <td>:</td>
+                    <td>Jasa Penambangan Quarry Limestone, Clay, Milling, & Supporting untuk Plant Tuban 1, 2, 3, & 4</td>
+                  </tr>
+                </tbody>
+              </table>
             </div>
           </div>
         </article>
@@ -49,13 +81,45 @@
             <h1 class="postcard__title blue">Jasa Konstruksi Reclamation Project</h1>
             <div class="postcard__bar"></div>
             <div class="postcard__preview-txt">
-              <strong>Project </strong>: Pek. Cut and Fill lahan Lamongan Marine Industri <br>
-              <strong>Tahun </strong>: 2011-2013 <br>
-              <strong>Lokasi </strong>: Lamongan, Jawa Timur <br>
-              <strong>User </strong>: PT. Wahyono Mitra Kencana <br>
-              <strong>Material </strong>: Limestone <br>
-              <strong>Metode </strong>: Pemberaian dengan Blasting <br>
-              <strong>Deskripsi </strong>: Pekerjaan reklamasi dan pembuatan breakwater untuk galangan kapal <br>
+              <table class="table-responsive table-sm">
+                <tbody>
+                  <tr>
+                    <td><b>Project</b></td>
+                    <td>:</td>
+                    <td>Pek. Cut and Fill lahan Lamongan Marine Industri</td>
+                  </tr>
+                  <tr>
+                    <td><b>Tahun</b></td>
+                    <td>:</td>
+                    <td>2011-2013</td>
+                  </tr>
+                  <tr>
+                    <td><b>Lokasi</b></td>
+                    <td>:</td>
+                    <td>Lamongan, Jawa Timur</td>
+                  </tr>
+                  <tr>
+                    <td><b>User</b></td>
+                    <td>:</td>
+                    <td>PT Wahyono Mitra Kencana</td>
+                  </tr>
+                  <tr>
+                    <td><b>Material</b></td>
+                    <td>:</td>
+                    <td>Limestone</td>
+                  </tr>
+                  <tr>
+                    <td><b>Metode</b></td>
+                    <td>:</td>
+                    <td>Pemberaian dengan Blasting</td>
+                  </tr>
+                  <tr>
+                    <td><b>Deskripsi</b></td>
+                    <td>:</td>
+                    <td>Pekerjaan reklamasi dan pembuatan breakwater untuk galangan kapal</td>
+                  </tr>
+                </tbody>
+              </table>
             </div>
           </div>
         </article>
@@ -70,13 +134,45 @@
             <h1 class="postcard__title blue">Jasa Konstruksi Jetty & Reclamation Project</h1>
             <div class="postcard__bar"></div>
             <div class="postcard__preview-txt">
-              <strong>Project </strong>: Pek. Cut and Fill lahan Lamongan Shorebase <br>
-              <strong>Tahun </strong>: 2013-2017 <br>
-              <strong>Lokasi </strong>: Lamongan, Jawa Timur <br>
-              <strong>User </strong>: PT. Eastern Logistic <br>
-              <strong>Material </strong>: Limestone <br>
-              <strong>Metode </strong>: Pemberaian dengan Blasting & Mekanis <br>
-              <strong>Deskripsi </strong>: Pekerjaan reklamasi dan pembuatan breakwater pelabuhan <br>
+            <table class="table-responsive table-sm">
+              <tbody>
+                <tr>
+                  <td><b>Project</b></td>
+                  <td>:</td>
+                  <td>Pek. Cut and Fill lahan Lamongan Shorebase</td>
+                </tr>
+                <tr>
+                  <td><b>Tahun</b></td>
+                  <td>:</td>
+                  <td>2013-2017</td>
+                </tr>
+                <tr>
+                  <td><b>Lokasi</b></td>
+                  <td>:</td>
+                  <td>Lamongan, Jawa Timur</td>
+                </tr>
+                <tr>
+                  <td><b>User</b></td>
+                  <td>:</td>
+                  <td>PT Eastern Logistic</td>
+                </tr>
+                <tr>
+                  <td><b>Material</b></td>
+                  <td>:</td>
+                  <td>Limestone</td>
+                </tr>
+                <tr>
+                  <td><b>Metode</b></td>
+                  <td>:</td>
+                  <td>Pemberaian dengan Blasting & Mekanis</td>
+                </tr>
+                <tr>
+                  <td><b>Deskripsi</b></td>
+                  <td>:</td>
+                  <td>Pekerjaan reklamasi dan pembuatan breakwater pelabuhan</td>
+                </tr>
+              </tbody>
+            </table>
             </div>
           </div>
         </article>
@@ -93,13 +189,45 @@
             <h1 class="postcard__title blue">Jasa Konstruksi Cement Plant Project</h1>
             <div class="postcard__bar"></div>
             <div class="postcard__preview-txt">
-              <strong>Project </strong>: Soil Excavation work for Cement Silo PT Semen Gresik Rembang <br>
-              <strong>Tahun </strong>: 2015 <br>
-              <strong>Lokasi </strong>: Rembang, Jawa Tengah <br>
-              <strong>User </strong>: PT. Semen Indonesia (Persero), Tbk. <br>
-              <strong>Material </strong>: Limestone & Clay <br>
-              <strong>Metode </strong>: Pemindahan Tanah mekanis <br>
-              <strong>Deskripsi </strong>: Pek. galian tanah untuk pondasi 3 unit cement silo dan pembuatan lean concrete <br>
+              <table class="table-responsive table-sm">
+                <tbody>
+                  <tr>
+                    <td><b>Project</b></td>
+                    <td>:</td>
+                    <td>Soil Excavation work for Cement Silo PT Semen Gresik Rembang</td>
+                  </tr>
+                  <tr>
+                    <td><b>Tahun</b></td>
+                    <td>:</td>
+                    <td>2015</td>
+                  </tr>
+                  <tr>
+                    <td><b>Lokasi</b></td>
+                    <td>:</td>
+                    <td>Rembang, Jawa Tengah</td>
+                  </tr>
+                  <tr>
+                    <td><b>User</b></td>
+                    <td>:</td>
+                    <td>PT Semen Indonesia (Persero) Tbk</td>
+                  </tr>
+                  <tr>
+                    <td><b>Material</b></td>
+                    <td>:</td>
+                    <td>Limestone & Clay</td>
+                  </tr>
+                  <tr>
+                    <td><b>Metode</b></td>
+                    <td>:</td>
+                    <td>Pemindahan Tanah Mekanis</td>
+                  </tr>
+                  <tr>
+                    <td><b>Deskripsi</b></td>
+                    <td>:</td>
+                    <td>Pek. galian tanah untuk pondasi 3 unit cement silo dan pembuatan lean concrete</td>
+                  </tr>
+                </tbody>
+              </table>
             </div>
           </div>
         </article>
@@ -114,13 +242,45 @@
             <h1 class="postcard__title blue">Jasa Konstruksi Cement Plant Project</h1>
             <div class="postcard__bar"></div>
             <div class="postcard__preview-txt">
-              <strong>Project </strong>: Jalan Tambang Plant to Limestone Crusher PT Semen Gresik Rembang <br>
-              <strong>Tahun </strong>: 2015 <br>
-              <strong>Lokasi </strong>: Rembang, Jawa Tengah <br>
-              <strong>User </strong>: PT. Semen Indonesia (Persero), Tbk. <br>
-              <strong>Material </strong>: Limestone & Clay <br>
-              <strong>Metode </strong>: Pemindahan Tanah Mekanis & Blasting <br>
-              <strong>Deskripsi </strong>: Pek. galian tanah, penimbunan, pembuatan  jembatan armco, box culvert, dan retaining wall <br>
+              <table class="table-responsive table-sm">
+                <tbody>
+                  <tr>
+                    <td><b>Project</b></td>
+                    <td>:</td>
+                    <td>Jalan Tambang Plant to Limestone Crusher PT Semen Gresik Rembang</td>
+                  </tr>
+                  <tr>
+                    <td><b>Tahun</b></td>
+                    <td>:</td>
+                    <td>2015</td>
+                  </tr>
+                  <tr>
+                    <td><b>Lokasi</b></td>
+                    <td>:</td>
+                    <td>Rembang, Jawa Tengah</td>
+                  </tr>
+                  <tr>
+                    <td><b>User</b></td>
+                    <td>:</td>
+                    <td>PT Semen Indonesia (Persero) Tbk</td>
+                  </tr>
+                  <tr>
+                    <td><b>Material</b></td>
+                    <td>:</td>
+                    <td>Limestone & Clay</td>
+                  </tr>
+                  <tr>
+                    <td><b>Metode</b></td>
+                    <td>:</td>
+                    <td>Pemindahan Tanah Mekanis & Blasting</td>
+                  </tr>
+                  <tr>
+                    <td><b>Deskripsi</b></td>
+                    <td>:</td>
+                    <td>Pek. galian tanah, penimbunan, pembuatan  jembatan armco, box culvert, dan retaining wall</td>
+                  </tr>
+                </tbody>
+              </table>
             </div>
           </div>
         </article>
@@ -132,13 +292,45 @@
             <h1 class="postcard__title blue">Jasa Konstruksi Cement Plant Project</h1>
             <div class="postcard__bar"></div>
             <div class="postcard__preview-txt">
-              <strong>Project </strong>: Pembangunan Bozem <br>
-              <strong>Tahun </strong>: 2016 <br>
-              <strong>Lokasi </strong>: Rembang, Jawa Tengah <br>
-              <strong>User </strong>: PT. Semen Indonesia (Persero), Tbk. <br>
-              <strong>Material </strong>: Clay <br>
-              <strong>Metode </strong>: Pemindahan Tanah Mekanis <br>
-              <strong>Deskripsi </strong>: Pek. galian tanah, checkdam, dan pemasangan geomembrane <br>
+              <table class="table-responsive table-sm">
+                <tbody>
+                  <tr>
+                    <td><b>Project</b></td>
+                    <td>:</td>
+                    <td>Pembangunan Bozem</td>
+                  </tr>
+                  <tr>
+                    <td><b>Tahun</b></td>
+                    <td>:</td>
+                    <td>2016</td>
+                  </tr>
+                  <tr>
+                    <td><b>Lokasi</b></td>
+                    <td>:</td>
+                    <td>Rembang, Jawa Tengah</td>
+                  </tr>
+                  <tr>
+                    <td><b>User</b></td>
+                    <td>:</td>
+                    <td>PT Semen Indonesia (Persero) Tbk</td>
+                  </tr>
+                  <tr>
+                    <td><b>Material</b></td>
+                    <td>:</td>
+                    <td>Clay</td>
+                  </tr>
+                  <tr>
+                    <td><b>Metode</b></td>
+                    <td>:</td>
+                    <td>Pemindahan Tanah Mekanis</td>
+                  </tr>
+                  <tr>
+                    <td><b>Deskripsi</b></td>
+                    <td>:</td>
+                    <td>Pek. galian tanah, checkdam, dan pemasangan geomembrane</td>
+                  </tr>
+                </tbody>
+              </table>
             </div>
           </div>
         </article>
@@ -150,13 +342,45 @@
             <h1 class="postcard__title blue">Jasa Konstruksi CSR Project</h1>
             <div class="postcard__bar"></div>
             <div class="postcard__preview-txt">
-              <strong>Project </strong>: Pembangunan Embung <br>
-              <strong>Tahun </strong>: 2016 <br>
-              <strong>Lokasi </strong>: Rembang, Jawa Tengah <br>
-              <strong>User </strong>: PT. Semen Indonesia (Persero), Tbk. <br>
-              <strong>Material </strong>: Clay <br>
-              <strong>Metode </strong>: Pemindahan Tanah Mekanis <br>
-              <strong>Deskripsi </strong>: Pek. galian tanah, checkdam, landscape, dan pemasangan geomembrane <br>
+              <table class="table-responsive table-sm">
+                <tbody>
+                  <tr>
+                    <td><b>Project</b></td>
+                    <td>:</td>
+                    <td>Pembangunan Embung</td>
+                  </tr>
+                  <tr>
+                    <td><b>Tahun</b></td>
+                    <td>:</td>
+                    <td>2016</td>
+                  </tr>
+                  <tr>
+                    <td><b>Lokasi</b></td>
+                    <td>:</td>
+                    <td>Rembang, Jawa Tengah</td>
+                  </tr>
+                  <tr>
+                    <td><b>User</b></td>
+                    <td>:</td>
+                    <td>PT Semen Indonesia (Persero) Tbk</td>
+                  </tr>
+                  <tr>
+                    <td><b>Material</b></td>
+                    <td>:</td>
+                    <td>Clay</td>
+                  </tr>
+                  <tr>
+                    <td><b>Metode</b></td>
+                    <td>:</td>
+                    <td>Pemindahan Tanah Mekanis</td>
+                  </tr>
+                  <tr>
+                    <td><b>Deskripsi</b></td>
+                    <td>:</td>
+                    <td>Pek. galian tanah, checkdam, landscape, dan pemasangan geomembrane</td>
+                  </tr>
+                </tbody>
+              </table>
             </div>
           </div>
         </article>
@@ -169,13 +393,45 @@
             <h1 class="postcard__title blue">Jasa Konstruksi Cement Plant Project</h1>
             <div class="postcard__bar"></div>
             <div class="postcard__preview-txt">
-              <strong>Project </strong>: Cut & Fill Lahan Pabrik Semen Indonesia Aceh <br>
-              <strong>Tahun </strong>: 2016 <br>
-              <strong>Lokasi </strong>: Aceh, NAD <br>
-              <strong>User </strong>: PT. Semen Indonesia Aceh, Semen Indonesia Group <br>
-              <strong>Material </strong>: Limestone <br>
-              <strong>Metode </strong>: Pemindahan Tanah Mekanis <br>
-              <strong>Deskripsi </strong>: Pek. galian tanah dan timbunan <br>
+              <table class="table-responsive table-sm">
+                <tbody>
+                  <tr>
+                    <td><b>Project</b></td>
+                    <td>:</td>
+                    <td>Cut & Fill Lahan Pabrik Semen Indonesia Aceh</td>
+                  </tr>
+                  <tr>
+                    <td><b>Tahun</b></td>
+                    <td>:</td>
+                    <td>2016</td>
+                  </tr>
+                  <tr>
+                    <td><b>Lokasi</b></td>
+                    <td>:</td>
+                    <td>Aceh, NAD</td>
+                  </tr>
+                  <tr>
+                    <td><b>User</b></td>
+                    <td>:</td>
+                    <td>PT Semen Indonesia Aceh, Semen Indonesia Group</td>
+                  </tr>
+                  <tr>
+                    <td><b>Material</b></td>
+                    <td>:</td>
+                    <td>Limestone</td>
+                  </tr>
+                  <tr>
+                    <td><b>Metode</b></td>
+                    <td>:</td>
+                    <td>Pemindahan Tanah Mekanis</td>
+                  </tr>
+                  <tr>
+                    <td><b>Deskripsi</b></td>
+                    <td>:</td>
+                    <td>Pek. galian tanah dan timbunan</td>
+                  </tr>
+                </tbody>
+              </table>
             </div>
           </div>
         </article>
@@ -189,13 +445,45 @@
             <h1 class="postcard__title blue">Jasa Konstruksi Toll Road Project</h1>
             <div class="postcard__bar"></div>
             <div class="postcard__preview-txt">
-              <strong>Project </strong>: Cut & Fill Jalan Tol Batang dan Ngawi <br>
-              <strong>Tahun </strong>: 2017-2018 <br>
-              <strong>Lokasi </strong>: Batang, Jawa Tengah & Ngawi, Jawa Timur <br>
-              <strong>User </strong>: PT. Waskita Karya (Persero), Tbk. <br>
-              <strong>Material </strong>: Clay <br>
-              <strong>Metode </strong>: Pemindahan Tanah Mekanis <br>
-              <strong>Deskripsi </strong>: Pek. Galian & Timbunan Tanah (embankment) untuk jalan Tol Trans Jawa <br>
+            <table class="table-responsive table-sm">
+              <tbody>
+                <tr>
+                  <td><b>Project</b></td>
+                  <td>:</td>
+                  <td>Cut & Fill Jalan Tol Batang dan Ngawi</td>
+                </tr>
+                <tr>
+                  <td><b>Tahun</b></td>
+                  <td>:</td>
+                  <td>2017-2018</td>
+                </tr>
+                <tr>
+                  <td><b>Lokasi</b></td>
+                  <td>:</td>
+                  <td>Batang, Jawa Tengah & Ngawi, Jawa Timur</td>
+                </tr>
+                <tr>
+                  <td><b>User</b></td>
+                  <td>:</td>
+                  <td>PT Waskita Karya (Persero) Tbk.</td>
+                </tr>
+                <tr>
+                  <td><b>Material</b></td>
+                  <td>:</td>
+                  <td>Clay</td>
+                </tr>
+                <tr>
+                  <td><b>Metode</b></td>
+                  <td>:</td>
+                  <td>Pemindahan Tanah Mekanis</td>
+                </tr>
+                <tr>
+                  <td><b>Deskripsi</b></td>
+                  <td>:</td>
+                  <td>Pek. Galian & Timbunan Tanah (embankment) untuk jalan Tol Trans Jawa</td>
+                </tr>
+              </tbody>
+            </table>
             </div>
           </div>
         </article>

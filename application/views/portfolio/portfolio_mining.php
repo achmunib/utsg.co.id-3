@@ -27,12 +27,40 @@
           <h1 class="postcard__title blue">Jasa Penambangan Quarry Tuban</h1>
           <div class="postcard__bar"></div>
           <div class="postcard__preview-txt">
-            <strong>Tahun </strong>: 1992-sekarang <br>
-            <strong>Lokasi </strong>: Tuban, Jawa Timur <br>
-            <strong>User </strong>: PT. Semen Indonesia (Persero), Tbk <br>
-            <strong>Material </strong>: Limestone & Clay <br>
-            <strong>Metode </strong>: Pemberaian dengan Blasting & Mekanis (Surface miner, digging, breaking, & ripping) <br>
-            <strong>Deskripsi </strong>: Jasa Penambangan Quarry Limestone, Clay, Milling, & Supporting untuk Plant Tuban 1, 2, 3, & 4 <br>
+            <table class="table-responsive table-sm">
+              <tbody>
+                <tr>
+                  <td><b>Tahun</b></td>
+                  <td>:</td>
+                  <td>1992-sekarang</td>
+                </tr>
+                <tr>
+                  <td><b>Lokasi</b></td>
+                  <td>:</td>
+                  <td>Tuban, Jawa Timur</td>
+                </tr>
+                <tr>
+                  <td><b>User</b></td>
+                  <td>:</td>
+                  <td>PT Semen Indonesia (Persero) Tbk</td>
+                </tr>
+                <tr>
+                  <td><b>Material</b></td>
+                  <td>:</td>
+                  <td>Limestone & Clay</td>
+                </tr>
+                <tr>
+                  <td><b>Metode</b></td>
+                  <td>:</td>
+                  <td>Pemberaian dengan Blasting & Mekanis (Surface miner, digging, breaking, & ripping)</td>
+                </tr>
+                <tr>
+                  <td><b>Deskripsi</b></td>
+                  <td>:</td>
+                  <td>Jasa Penambangan Quarry Limestone, Clay, Milling, & Supporting untuk Plant Tuban 1, 2, 3, & 4</td>
+                </tr>
+              </tbody>
+            </table>
           </div>
         </div>
       </article>
@@ -48,12 +76,40 @@
           <h1 class="postcard__title blue">Jasa Penambangan Quarry Rembang</h1>
           <div class="postcard__bar"></div>
           <div class="postcard__preview-txt">
-            <strong>Tahun </strong>: 2017-sekarang <br>
-            <strong>Lokasi </strong>: Rembang, Jawa Tengah <br>
-            <strong>User </strong>: PT. Semen Indonesia (Persero), Tbk <br>
-            <strong>Material </strong>: Limestone & Clay <br>
-            <strong>Metode </strong>: Pemberaian dengan Blasting & Mekanis <br>
-            <strong>Deskripsi </strong>: Jasa Penambangan Quarry Limestone, Clay, & Supporting <br>
+            <table class="table-responsive table-sm">
+              <tbody>
+                <tr>
+                  <td><b>Tahun</b></td>
+                  <td>:</td>
+                  <td>2017-sekarang</td>
+                </tr>
+                <tr>
+                  <td><b>Lokasi</b></td>
+                  <td>:</td>
+                  <td>Rembang, Jawa Tengah</td>
+                </tr>
+                <tr>
+                  <td><b>User</b></td>
+                  <td>:</td>
+                  <td>PT Semen Indonesia (Persero) Tbk</td>
+                </tr>
+                <tr>
+                  <td><b>Material</b></td>
+                  <td>:</td>
+                  <td>Limestone & Clay</td>
+                </tr>
+                <tr>
+                  <td><b>Metode</b></td>
+                  <td>:</td>
+                  <td>Pemberaian dengan Blasting & Mekanis</td>
+                </tr>
+                <tr>
+                  <td><b>Deskripsi</b></td>
+                  <td>:</td>
+                  <td>Jasa Penambangan Quarry Limestone, Clay, & Supporting</td>
+                </tr>
+              </tbody>
+            </table>
           </div>
         </div>
       </article>
@@ -66,12 +122,40 @@
           <h1 class="postcard__title blue">Jasa Penambangan Quarry Pelawi</h1>
           <div class="postcard__bar"></div>
           <div class="postcard__preview-txt">
-            <strong>Tahun </strong>: 2010-sekarang <br>
-            <strong>Lokasi </strong>: Ogan Komering Ulu, Sumatera Selatan <br>
-            <strong>User </strong>: PT. Semen Baturaja (Persero) <br>
-            <strong>Material </strong>: Limestone & Clay <br>
-            <strong>Metode </strong>: Pemberaian dengan Blasting & Mekanis <br>
-            <strong>Deskripsi </strong>: Jasa Penambangan Quarry Limestone, Clay, & Supporting <br>
+            <table class="table-responsive table-sm">
+              <tbody>
+                <tr>
+                  <td><b>Tahun</b></td>
+                  <td>:</td>
+                  <td>2010-sekarang</td>
+                </tr>
+                <tr>
+                  <td><b>Lokasi</b></td>
+                  <td>:</td>
+                  <td>Ogan Komering Ulu, Sumatera Selatan</td>
+                </tr>
+                <tr>
+                  <td><b>User</b></td>
+                  <td>:</td>
+                  <td>PT Semen Baturaja (Persero)</td>
+                </tr>
+                <tr>
+                  <td><b>Material</b></td>
+                  <td>:</td>
+                  <td>Limestone & Clay</td>
+                </tr>
+                <tr>
+                  <td><b>Metode</b></td>
+                  <td>:</td>
+                  <td>Pemberaian dengan Blasting & Mekanis</td>
+                </tr>
+                <tr>
+                  <td><b>Deskripsi</b></td>
+                  <td>:</td>
+                  <td>Jasa Penambangan Quarry Limestone, Clay, & Supporting</td>
+                </tr>
+              </tbody>
+            </table>
           </div>
         </div>
       </article>
@@ -85,12 +169,40 @@
           <h1 class="postcard__title blue">Jasa Penambangan Quarry Pangkep</h1>
           <div class="postcard__bar"></div>
           <div class="postcard__preview-txt">
-            <strong>Tahun </strong>: 2010-sekarang <br>
-            <strong>Lokasi </strong>: Pangkep, Sulawesi Selatan <br>
-            <strong>User </strong>: PT. Semen Tonasa (Persero), Semen Indonesia Group <br>
-            <strong>Material </strong>: Limestone <br>
-            <strong>Metode </strong>: Mekanis <br>
-            <strong>Deskripsi </strong>: Jasa Drilling, Loading, & Hauling <br>
+            <table class="table-responsive table-sm">
+              <tbody>
+                <tr>
+                  <td><b>Tahun</b></td>
+                  <td>:</td>
+                  <td>2010-sekarang</td>
+                </tr>
+                <tr>
+                  <td><b>Lokasi</b></td>
+                  <td>:</td>
+                  <td>Pangkep, Sulawesi Selatan</td>
+                </tr>
+                <tr>
+                  <td><b>User</b></td>
+                  <td>:</td>
+                  <td>PT Semen Tonasa (Persero), Semen Indonesia Group</td>
+                </tr>
+                <tr>
+                  <td><b>Material</b></td>
+                  <td>:</td>
+                  <td>Limestone</td>
+                </tr>
+                <tr>
+                  <td><b>Metode</b></td>
+                  <td>:</td>
+                  <td>Mekanis</td>
+                </tr>
+                <tr>
+                  <td><b>Deskripsi</b></td>
+                  <td>:</td>
+                  <td>Jasa Drilling, Loading, & Hauling</td>
+                </tr>
+              </tbody>
+            </table>
           </div>
         </div>
       </article>
@@ -103,12 +215,40 @@
           <h1 class="postcard__title blue">Jasa Penambangan Quarry Padang</h1>
           <div class="postcard__bar"></div>
           <div class="postcard__preview-txt">
-            <strong>Tahun </strong>: 2018-sekarang <br>
-            <strong>Lokasi </strong>: Padang, Sumatera Barat <br>
-            <strong>User </strong>: PT. Semen Tonasa (Persero), Semen Indonesia Group <br>
-            <strong>Material </strong>: OB & Silika <br>
-            <strong>Metode </strong>: Direct Digging / Mekanis  <br>
-            <strong>Deskripsi </strong>: Loading & Hauling <br>
+            <table class="table-responsive table-sm">
+              <tbody>
+                <tr>
+                  <td><b>Tahun</b></td>
+                  <td>:</td>
+                  <td>2018-sekarang</td>
+                </tr>
+                <tr>
+                  <td><b>Lokasi</b></td>
+                  <td>:</td>
+                  <td>Padang, Sumatera Barat</td>
+                </tr>
+                <tr>
+                  <td><b>User</b></td>
+                  <td>:</td>
+                  <td>PT Semen Tonasa (Persero), Semen Indonesia Group</td>
+                </tr>
+                <tr>
+                  <td><b>Material</b></td>
+                  <td>:</td>
+                  <td>OB & Silika</td>
+                </tr>
+                <tr>
+                  <td><b>Metode</b></td>
+                  <td>:</td>
+                  <td>Direct Digging / Mekanis</td>
+                </tr>
+                <tr>
+                  <td><b>Deskripsi</b></td>
+                  <td>:</td>
+                  <td>Loading & Hauling</td>
+                </tr>
+              </tbody>
+            </table>
           </div>
         </div>
       </article>

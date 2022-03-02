@@ -19,12 +19,12 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Link Bantu</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#hero">Beranda</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#about">Tentang</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#services">Layanan</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#hero">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#about">About Us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#services">Services</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#portfolio">Program</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#team">Tim Kami</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#contact">Kontak</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#team">Our Teams</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#contact">Contact Us</a></li>
             </ul>
           </div>
 
