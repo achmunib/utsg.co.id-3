@@ -33,7 +33,7 @@ a, a:hover {
   -webkit-box-shadow: 0 4px 21px -12px rgba(0, 0, 0, 0.66);
           box-shadow: 0 4px 21px -12px rgba(0, 0, 0, 0.66);
   border-radius: 10px;
-  margin: 0 0 2rem 0;
+  margin: 0 0 1.5rem 0;
   overflow: hidden;
   position: relative;
   color: #ffffff;
@@ -108,6 +108,7 @@ a, a:hover {
   text-overflow: ellipsis;
   text-align: justify;
   height: 100%;
+  font-size:25px;
 }
 
 .postcard .postcard__tagbox {
@@ -183,7 +184,10 @@ a, a:hover {
     transition: transform 0.3s ease, -webkit-transform 0.3s ease;
   }
   .postcard .postcard__text {
-    padding: 3rem;
+    padding-top: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 4rem;
     width: 100%;
   }
   .postcard .media.postcard__text:before {
