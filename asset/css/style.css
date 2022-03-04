@@ -1562,6 +1562,9 @@ section {
   font-size: 13px;
   color: #444444;
 }
+#footer .logo img {
+  max-height: 40px;
+}
 @media (max-width: 768px) {
   #footer .copyright, #footer .credits {
     float: none;

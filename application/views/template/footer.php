@@ -6,7 +6,11 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>UTSG<span>.</span></h3>
+            <h3 class="logo">
+              <a href="<?= base_url()?>">
+                <img src="<?= base_url()?>asset/img/utsg.png" alt="" sizes="" srcset="">
+              </a>
+            </h3>
             <p>
               Jl. Raya Kerek, Sumber Rejo, Sumberarum <br>
               Tuban, Jawa Timur<br>

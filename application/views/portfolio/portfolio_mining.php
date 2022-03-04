@@ -31,32 +31,32 @@
               <tbody>
                 <tr>
                   <td><b>Tahun</b></td>
-                  <td>:</td>
+                  <td style="vertical-align: text-top">:</td>
                   <td>1992-sekarang</td>
                 </tr>
                 <tr>
                   <td><b>Lokasi</b></td>
-                  <td>:</td>
+                  <td style="vertical-align: text-top">:</td>
                   <td>Tuban, Jawa Timur</td>
                 </tr>
                 <tr>
                   <td><b>User</b></td>
-                  <td>:</td>
+                  <td style="vertical-align: text-top">:</td>
                   <td>PT Semen Indonesia (Persero) Tbk</td>
                 </tr>
                 <tr>
                   <td><b>Material</b></td>
-                  <td>:</td>
+                  <td style="vertical-align: text-top">:</td>
                   <td>Limestone & Clay</td>
                 </tr>
                 <tr>
                   <td><b>Metode</b></td>
-                  <td>:</td>
+                  <td style="vertical-align: text-top">:</td>
                   <td>Pemberaian dengan Blasting & Mekanis (Surface miner, digging, breaking, & ripping)</td>
                 </tr>
                 <tr>
                   <td><b>Deskripsi</b></td>
-                  <td>:</td>
+                  <td style="vertical-align: text-top">:</td>
                   <td>Jasa Penambangan Quarry Limestone, Clay, Milling, & Supporting untuk Plant Tuban 1, 2, 3, & 4</td>
                 </tr>
               </tbody>
@@ -80,32 +80,32 @@
               <tbody>
                 <tr>
                   <td><b>Tahun</b></td>
-                  <td>:</td>
+                  <td style="vertical-align: text-top">:</td>
                   <td>2017-sekarang</td>
                 </tr>
                 <tr>
                   <td><b>Lokasi</b></td>
-                  <td>:</td>
+                  <td style="vertical-align: text-top">:</td>
                   <td>Rembang, Jawa Tengah</td>
                 </tr>
                 <tr>
                   <td><b>User</b></td>
-                  <td>:</td>
+                  <td style="vertical-align: text-top">:</td>
                   <td>PT Semen Indonesia (Persero) Tbk</td>
                 </tr>
                 <tr>
                   <td><b>Material</b></td>
-                  <td>:</td>
+                  <td style="vertical-align: text-top">:</td>
                   <td>Limestone & Clay</td>
                 </tr>
                 <tr>
                   <td><b>Metode</b></td>
-                  <td>:</td>
+                  <td style="vertical-align: text-top">:</td>
                   <td>Pemberaian dengan Blasting & Mekanis</td>
                 </tr>
                 <tr>
                   <td><b>Deskripsi</b></td>
-                  <td>:</td>
+                  <td style="vertical-align: text-top">:</td>
                   <td>Jasa Penambangan Quarry Limestone, Clay, & Supporting</td>
                 </tr>
               </tbody>
@@ -126,32 +126,32 @@
               <tbody>
                 <tr>
                   <td><b>Tahun</b></td>
-                  <td>:</td>
+                  <td style="vertical-align: text-top">:</td>
                   <td>2010-sekarang</td>
                 </tr>
                 <tr>
                   <td><b>Lokasi</b></td>
-                  <td>:</td>
+                  <td style="vertical-align: text-top">:</td>
                   <td>Ogan Komering Ulu, Sumatera Selatan</td>
                 </tr>
                 <tr>
                   <td><b>User</b></td>
-                  <td>:</td>
+                  <td style="vertical-align: text-top">:</td>
                   <td>PT Semen Baturaja (Persero)</td>
                 </tr>
                 <tr>
                   <td><b>Material</b></td>
-                  <td>:</td>
+                  <td style="vertical-align: text-top">:</td>
                   <td>Limestone & Clay</td>
                 </tr>
                 <tr>
                   <td><b>Metode</b></td>
-                  <td>:</td>
+                  <td style="vertical-align: text-top">:</td>
                   <td>Pemberaian dengan Blasting & Mekanis</td>
                 </tr>
                 <tr>
                   <td><b>Deskripsi</b></td>
-                  <td>:</td>
+                  <td style="vertical-align: text-top">:</td>
                   <td>Jasa Penambangan Quarry Limestone, Clay, & Supporting</td>
                 </tr>
               </tbody>
@@ -173,32 +173,32 @@
               <tbody>
                 <tr>
                   <td><b>Tahun</b></td>
-                  <td>:</td>
+                  <td style="vertical-align: text-top">:</td>
                   <td>2010-sekarang</td>
                 </tr>
                 <tr>
                   <td><b>Lokasi</b></td>
-                  <td>:</td>
+                  <td style="vertical-align: text-top">:</td>
                   <td>Pangkep, Sulawesi Selatan</td>
                 </tr>
                 <tr>
                   <td><b>User</b></td>
-                  <td>:</td>
+                  <td style="vertical-align: text-top">:</td>
                   <td>PT Semen Tonasa (Persero), Semen Indonesia Group</td>
                 </tr>
                 <tr>
                   <td><b>Material</b></td>
-                  <td>:</td>
+                  <td style="vertical-align: text-top">:</td>
                   <td>Limestone</td>
                 </tr>
                 <tr>
                   <td><b>Metode</b></td>
-                  <td>:</td>
+                  <td style="vertical-align: text-top">:</td>
                   <td>Mekanis</td>
                 </tr>
                 <tr>
                   <td><b>Deskripsi</b></td>
-                  <td>:</td>
+                  <td style="vertical-align: text-top">:</td>
                   <td>Jasa Drilling, Loading, & Hauling</td>
                 </tr>
               </tbody>
@@ -219,32 +219,32 @@
               <tbody>
                 <tr>
                   <td><b>Tahun</b></td>
-                  <td>:</td>
+                  <td style="vertical-align: text-top">:</td>
                   <td>2018-sekarang</td>
                 </tr>
                 <tr>
                   <td><b>Lokasi</b></td>
-                  <td>:</td>
+                  <td style="vertical-align: text-top">:</td>
                   <td>Padang, Sumatera Barat</td>
                 </tr>
                 <tr>
                   <td><b>User</b></td>
-                  <td>:</td>
+                  <td style="vertical-align: text-top">:</td>
                   <td>PT Semen Tonasa (Persero), Semen Indonesia Group</td>
                 </tr>
                 <tr>
                   <td><b>Material</b></td>
-                  <td>:</td>
+                  <td style="vertical-align: text-top">:</td>
                   <td>OB & Silika</td>
                 </tr>
                 <tr>
                   <td><b>Metode</b></td>
-                  <td>:</td>
+                  <td style="vertical-align: text-top">:</td>
                   <td>Direct Digging / Mekanis</td>
                 </tr>
                 <tr>
                   <td><b>Deskripsi</b></td>
-                  <td>:</td>
+                  <td style="vertical-align: text-top">:</td>
                   <td>Loading & Hauling</td>
                 </tr>
               </tbody>
