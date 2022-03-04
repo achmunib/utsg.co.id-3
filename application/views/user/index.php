@@ -105,7 +105,7 @@
       </div>
     </section>
 
-     <section id="" class="section section-bg">
+    <section id="" class="section section-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
