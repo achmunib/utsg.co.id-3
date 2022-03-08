@@ -12,9 +12,9 @@
               </a>
             </h3>
             <p>
-              Jl. Raya Kerek, Sumber Rejo, Sumberarum <br>
-              Tuban, Jawa Timur<br>
-              Indonesia <br><br>
+              Desa Sumberarum, Kerek<br>
+              Tuban – 62356<br>
+              Jawa Timur, Indonesia<br><br>
               <strong>Phone:</strong> (0356) 711 800<br>
               <strong>Email:</strong> office@utsg.co.id<br>
             </p>

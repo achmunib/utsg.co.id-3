@@ -39,6 +39,51 @@ class User extends CI_Controller
     $this->load->view('template/footer');
   }
 
+  public function utsg_trees()
+  {
+    $data['title'] = 'UTSG TREES';
+    $this->load->view('template/topbar');
+    $this->load->view('portfolio/header');
+    $this->load->view('program/trees', $data);
+    $this->load->view('template/footer');
+  }
+
+  public function utsg_future()
+  {
+    $data['title'] = 'UTSG TREES';
+    $this->load->view('template/topbar');
+    $this->load->view('portfolio/header');
+    $this->load->view('program/future', $data);
+    $this->load->view('template/footer');
+  }
+
+  public function utsg_care()
+  {
+    $data['title'] = 'UTSG TREES';
+    $this->load->view('template/topbar');
+    $this->load->view('portfolio/header');
+    $this->load->view('program/care', $data);
+    $this->load->view('template/footer');
+  }
+
+  public function utsg_action()
+  {
+    $data['title'] = 'UTSG TREES';
+    $this->load->view('template/topbar');
+    $this->load->view('portfolio/header');
+    $this->load->view('program/action', $data);
+    $this->load->view('template/footer');
+  }
+
+  public function utsg_growth()
+  {
+    $data['title'] = 'UTSG TREES';
+    $this->load->view('template/topbar');
+    $this->load->view('portfolio/header');
+    $this->load->view('program/growth', $data);
+    $this->load->view('template/footer');
+  }
+
   // End Project
 
   public function message()

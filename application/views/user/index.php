@@ -336,7 +336,7 @@
     </section><!-- End Services Section -->
 
     <!-- ======= Portfolio Section ======= -->
-    <section id="portfolio" class="portfolio section-bg" >
+    <section id="portfolio" class="featured-services section-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -345,75 +345,62 @@
           <p> Program & Tanggung Jawab Sosial diperusahaan kami.</p>
         </div>
 
-        <div class="row" data-aos="fade-up" data-aos-delay="100">
-          <div class="col-lg-12 d-flex justify-content-center">
-            <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-utsg_trees"> UTSG TREES </li>
-              <li data-filter=".filter-utsg_future"> UTSG FUTURE </li>
-              <li data-filter=".filter-utsg_care"> UTSG CARE </li>
-              <li data-filter=".filter-utsg_action"> UTSG ACTION </li>
-              <li data-filter=".filter-utsg_growth"> UTSG GROWTH </li>
-            </ul>
+        <div class="row col-md-12" style="justify-content: center;">
+          
+          <div class="col-md-4 col-lg-4 d-flex align-items-stretch"  style="margin-bottom: 1px; margin-top:1%;">
+            <a href="<?=base_url();?>/user/utsg_trees">
+              <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                <div class="icon col-lg-2 col-md-4 col-4 d-flex align-items-center"> <img style="max-width: 120px; max-height: 120px;" src="asset/img/sustainability/trees1.png"    class="img-fluid" alt=""> </div>
+                <h4 class="title"><a href=""></a></h4>
+                <p class="description">UTSG for Nature and Environment Sustainability (Bidang Lingkungan) </p>
+              </div>
+            </a>
           </div>
+        
+          <div class="col-md-4 col-lg-4 d-flex align-items-stretch " style="margin-bottom: 1px; margin-top:1%;">
+            <a href="<?=base_url();?>/user/utsg_future">
+              <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
+                <div class="icon col-lg-2 col-md-4 col-4 d-flex align-items-center"><img style="max-width: 120px; max-height: 120px;" src="asset/img/sustainability/Future.png" class="img-fluid" alt=""></div>
+                <h4 class="title"><a href=""></a></h4>
+                <p class="description">UTSG for Education and Bright Future (Bidang Pendidikan)</p>
+              </div>
+            </a>
+          </div>
+        
+          <div class="col-md-4 col-lg-4 d-flex align-items-stretch " style="margin-bottom: 1px; margin-top:1%;">
+            <a href="<?=base_url();?>/user/utsg_care">
+              <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
+                <div class="icon col-lg-2 col-md-4 col-4 align-items-center"><img style="max-width: 120px; max-height: 120px;" src="asset/img/sustainability/Care.png" class="img-fluid" alt=""></div>
+                <h4 class="title"><a href=""></a></h4>
+                <p class="description">UTSG for Generating Opportunities and Wealth (Bidang Pemberdayaan Ekonomi Masyarakat)</p>
+              </div>
+            </a>
+          </div>
+          
+          <div class="col-md-4 col-lg-4 d-flex align-items-stretch "style="margin-bottom: 1px; margin-top:1%;">
+            <a href="<?=base_url();?>/user/utsg_action">
+              <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                <div class="icon col-lg-2 col-md-4 col-4 d-flex align-items-center"> <img style="max-width: 150px; max-height: 150px;" src="asset/img/sustainability/Action.png" class="img-fluid" alt=""> </div>
+                <h4 class="title"><a href=""></a></h4>
+                <p class="description">UTSG for Community Health Responsibility (Bidang Kesehatan Masyarakat) </p>
+              </div>
+            </a>
+          </div>
+        
+          <div class="col-md-4 col-lg-4 d-flex align-items-stretch " style="margin-bottom: 1px; margin-top:1%;">
+            <a href="<?=base_url();?>/user/utsg_growth">
+              <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
+                <div class="icon col-lg-2 col-md-4 col-4 d-flex align-items-center"><img style="max-width: 110px; max-height: 110px;" src="asset/img/sustainability/Growth.png" class="img-fluid" alt=""></div>
+                <h4 class="title"><a href=""></a></h4>
+                <p class="description">UTSG for Emergency Respone and Action (Bidang Tanggap Darurat)</p>
+              </div>
+            </a>
+          </div>
+
         </div>
-
-        <div class="row portfolio-container justify-content-center" data-aos="fade-up" data-aos-delay="200" >
-
-          <div class="col-lg-3 col-md-3 portfolio-item filter-utsg_trees">
-            <img src="<?=base_url();?>asset/img/sustainability/trees.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>UTSG TREES</h4>
-              <!-- <p>For Nature and Environment Sustainability (Bidang Lingkungan)</p> -->
-              <a href="<?=base_url();?>asset/img/sustainability/trees3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="United Tractors Semen Gresik for Nature and Environment Sustainability (Bidang Lingkungan)"><i class="bx bx-plus"></i></a>
-              <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-3 portfolio-item filter-utsg_future">
-            <img src="<?=base_url();?>asset/img/sustainability/future.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>UTSG FUTURE</h4>
-              <p>For Education and Bright Future (Bidang Pendidikan)</p>
-              <a href="<?=base_url();?>asset/img/sustainability/future.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="United Tractors Semen Gresik for Education and Bright Future (Bidang Pendidikan)"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-3 portfolio-item filter-utsg_care">
-            <img src="<?=base_url();?>asset/img/sustainability/care.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>UTSG CARE</h4>
-              <p>For Generating Opportunities and Wealth (Bidang Pemberdayaan Ekonomi Masyarakat)</p>
-              <a href="<?=base_url();?>asset/img/sustainability/care.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="United Tractors Semen Gresik for Generating Opportunities and Wealth (Bidang Pemberdayaan Ekonomi Masyarakat)"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-3 portfolio-item filter-utsg_action">
-            <img src="<?=base_url();?>asset/img/sustainability/action.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>UTSG ACTION</h4>
-              <p>For Community Health Responsibility (Bidang Kesehatan Masyarakat)</p>
-              <a href="<?=base_url();?>asset/img/sustainability/action.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="United Tractors Semen Gresik for Community Health Responsibility (Bidang Kesehatan Masyarakat)"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-3 portfolio-item filter-utsg_growth">
-            <img src="<?=base_url();?>asset/img/sustainability/growth.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>UTSG GROWTH</h4>
-              <p>For Emergency Respone and Action (Bidang Tanggap Darurat)</p>
-              <a href="<?=base_url();?>asset/img/sustainability/growth.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="United Tractors Semen Gresik for Emergency Respone and Action (Bidang Tanggap Darurat)"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-      
-        </div>
-
       </div>
-    </section><!-- End Portfolio Section -->
+    </section>
+    <!-- End Portfolio Section -->
 
     <!-- ======= Team Section ======= -->
     <section id="team" class="team ">
