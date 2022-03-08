@@ -7,6 +7,7 @@
         <h2>Program Details</h2>
         <ol>
           <li><a href="<?=base_url();?>">Home</a></li>
+          <li><a href="<?=base_url();?>user/utsg_care">UTSG Care</a></li>
           <li>Program Details</li>
         </ol>
       </div>
@@ -16,31 +17,57 @@
 
   <!-- ======= Program Details Section ======= -->
   <section id="portfolio-details" class="portfolio-details light">
-    <div class="container py-2">    
-      <div class="row">
-        <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100" >
-          <img style="max-width:80%; max-height: 80%; margin-left: 100px;" src="<?=base_url();?>asset/img/scets/Padang2.png" class="img-fluid" alt="">
-        </div>
-        <div class="col-lg-6 content d-flex flex-column"  data-aos="fade-up" data-aos-delay="100">
-          <h5 style="margin-top: 10px;">MINE SERVICE</h6>
-          <h3 style="color:#0d6efd;">BIDANG JASA PERTAMBANGAN</h3>
-          <p class="fst-italic">
-            1. Perencanaan dan pelaksanaan di bidang Pengangkutan.
-            <br>2. Perencanaan dan pelaksanaan di bidang Penambangan (pengupasan, pemuatan, pemindahan, pemberaian/pembongkaran, dan pengangkutan batuan/tanah penutup).
-            <br><b>Dilingkungan proyek-proyek pertambangan mineral & batubara</b>
-          </p>
-          <br>
-
-          <p style="margin-top:-20px">
-            Kualifikasi Bidang Usaha Jasa Pertambangan PT UTSG meliputi kegiatan : 
-            <b> Land Clearing, Stripping, Drilling, Blasting, Breaking, Loading, Hauling</b> (Reguler)<b>, &
-            Surface Miner/Milling</b> (Non Reguler) 
-            <br>
-            <a href="<?=base_url();?>user/portfolio_mining" style="font-family:'Roboto', sans-serif; margin-top: 10px; text-transform: uppercase; font-weight: 500; font-size: 14px; letter-spacing: 1px; display: inline-block; padding: 10px 28px; border-radius: 20px; transition: 0.5s;color: #fff;background: #106eea;"> Pengalaman Project </a>
-          </p>
+    <div class="container py-2">
+      <div class="card">
+        <div class="row">
+          <div class="col-md-5" data-aos="fade-right" data-aos-delay="100" >
+            <img src="<?=base_url();?>asset/img/program/Vaksin.jpeg" class="img-fluid" alt="utsg-trees-img">
+          </div>
+          <div class="col-lg-7 content d-flex flex-column" data-aos="fade-up" data-aos-delay="100" style="text-align: justify">
+            <div class="card-block px-6">
+              <h4 class="card-title">Vaksinasi bersama Polres Tuban</h4>
+              <p class="card-text" style="text-indent: 50px">
+                PT United Tractors Semen Gresik (UTSG) bekerja sama dengan Polres Tuban melaksanakan vaksinasi dalam rangka menyukseskan program 1 juta vaksin per hari bertempat di Mapolres Tuban. Vaksinasi ini menyasar kepada karyawan PT UTSG dan keluarga, serta warga sekitar perusahaan.
+              </p>
+              <p class="card-text" style="text-indent: 50px">
+                Pelaksanaan vaksinasi ini tidak hanya melibatkan karyawan, keluarga, dan warga sekitar saja. Namun juga mengajak beberapa anak usaha Semen Indonesia Group yang ada di Kabupaten Tuban. Seperti, Swabina, IKSG, Silog, SBI, dan beberapa subcont serta vendor yang bekerja di UTSG. dengan tujuan memutus rantai penularan Covid-19.
+              </p>
+              <p class="card-text" style="text-indent: 50px">
+                Melalui vaksinasi ini diharapkan tubuh semakin terlindungi karena kekebalan meningkat, sehingga meminimalisasi gejala berat saat terpapar Covid-19 khusunya di lingkungan perusahaan.
+              </p>
+              <p class="card-text" style="text-indent: 50px">
+                Ditengah kegiatan, KabagOps Polres tuban menuturkan, bahwa pelaksanaan vaksinasi kali ini sangatlah luar biasa, dimana sekitar 1.200 dosis vaksin sinovac berhasil dihabiskan hanya dalam waktu kurang dari 6 jam, terlihat betapa tingginya animo masyarakat terhadap kegiatan kali ini.
+              </p>
+            </div>
+          </div>
         </div>
       </div>
-      <br>
+    </div>
+    <div class="container py-2">
+      <div class="card">
+        <div class="row">
+          <div class="col-lg-7 content d-flex flex-column"  data-aos="fade-up" data-aos-delay="100" style="text-align: justify">
+            <div class="card-block px-6">
+              <h4 class="card-title">Posyandu</h4>
+              <p class="card-text" style="text-indent: 50px">
+                Posyandu merupakan salah satu program UTSG Care, yang sampai dengan tahun 2021 menjadi prioritas program CSR UTSG. Dimana Di Dua tahun sebelumnya Posyandu diarahkan di desa Sembungrejo, sedangkan untuk tahun ini posyandu bergilir di desa Pongpongan.Hal ini bertujuan agar terjadi pemerataan program CSR di 10 desa sekitar perusahaan yang menjadi ring satu (UTSG). 
+              </p>
+              <p class="card-text" style="text-indent: 50px">
+                Dimana keterlibatan UTSG dalam kegitan posyandu di desa pongpongan adalah dengan memberikan tambahan nutrisi & gizi balita, hal ini bertujuan untuk menjaga kestabilan gizi bayi dan mencegah terjadinya bayi stanting.
+              </p>
+              <p class="card-text" style="text-indent: 50px">
+                Untuk desa pongpongan sendiri  Terdiri dari 3 Pos :
+                1.	Posyandu Tanjung, Total balita sebanyak 120 balita dengan tingkat kehadiran rata-rata 70 balita.
+                2.	Posyandu Krisan, Total balita sebanyak 69 balita dengan tingkat kehadiran rata-rata 40 balita.
+                3.	Posyandu Suflir, Total balita sebanyak 110 balita dengan tingkat kehadiran rata-rata 65 balita.
+              </p>
+            </div>
+          </div>
+          <div class="col-md-5" data-aos="fade-left" data-aos-delay="100" >
+            <img src="<?=base_url();?>asset/img/program/Posyandu.jpeg" class="img-fluid" alt="utsg-trees-img">
+          </div>
+        </div>
+      </div>
     </div>
   </section><!-- End Portfolio Details Section -->
 </main><!-- End #main -->

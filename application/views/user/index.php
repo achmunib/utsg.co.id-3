@@ -348,7 +348,7 @@
         <div class="row col-md-12" style="justify-content: center;">
           
           <div class="col-md-4 col-lg-4 d-flex align-items-stretch"  style="margin-bottom: 1px; margin-top:1%;">
-            <a href="<?=base_url();?>/user/utsg_trees">
+            <a href="<?=base_url();?>user/utsg_trees">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                 <div class="icon col-lg-2 col-md-4 col-4 d-flex align-items-center"> <img style="max-width: 120px; max-height: 120px;" src="asset/img/sustainability/trees1.png"    class="img-fluid" alt=""> </div>
                 <h4 class="title"><a href=""></a></h4>
@@ -358,7 +358,7 @@
           </div>
         
           <div class="col-md-4 col-lg-4 d-flex align-items-stretch " style="margin-bottom: 1px; margin-top:1%;">
-            <a href="<?=base_url();?>/user/utsg_future">
+            <a href="<?=base_url();?>user/utsg_future">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                 <div class="icon col-lg-2 col-md-4 col-4 d-flex align-items-center"><img style="max-width: 120px; max-height: 120px;" src="asset/img/sustainability/Future.png" class="img-fluid" alt=""></div>
                 <h4 class="title"><a href=""></a></h4>
@@ -368,7 +368,7 @@
           </div>
         
           <div class="col-md-4 col-lg-4 d-flex align-items-stretch " style="margin-bottom: 1px; margin-top:1%;">
-            <a href="<?=base_url();?>/user/utsg_care">
+            <a href="<?=base_url();?>user/utsg_care">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                 <div class="icon col-lg-2 col-md-4 col-4 align-items-center"><img style="max-width: 120px; max-height: 120px;" src="asset/img/sustainability/Care.png" class="img-fluid" alt=""></div>
                 <h4 class="title"><a href=""></a></h4>
@@ -378,7 +378,7 @@
           </div>
           
           <div class="col-md-4 col-lg-4 d-flex align-items-stretch "style="margin-bottom: 1px; margin-top:1%;">
-            <a href="<?=base_url();?>/user/utsg_action">
+            <a href="<?=base_url();?>user/utsg_action">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                 <div class="icon col-lg-2 col-md-4 col-4 d-flex align-items-center"> <img style="max-width: 150px; max-height: 150px;" src="asset/img/sustainability/Action.png" class="img-fluid" alt=""> </div>
                 <h4 class="title"><a href=""></a></h4>
@@ -388,7 +388,7 @@
           </div>
         
           <div class="col-md-4 col-lg-4 d-flex align-items-stretch " style="margin-bottom: 1px; margin-top:1%;">
-            <a href="<?=base_url();?>/user/utsg_growth">
+            <a href="<?=base_url();?>user/utsg_growth">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                 <div class="icon col-lg-2 col-md-4 col-4 d-flex align-items-center"><img style="max-width: 110px; max-height: 110px;" src="asset/img/sustainability/Growth.png" class="img-fluid" alt=""></div>
                 <h4 class="title"><a href=""></a></h4>

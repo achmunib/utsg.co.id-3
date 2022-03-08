@@ -7,7 +7,7 @@
         <h2>Program Details</h2>
         <ol>
           <li><a href="<?=base_url();?>">Home</a></li>
-          <li><a href="<?=base_url();?>/user/utsg_trees">UTSG Trees</a></li>
+          <li><a href="<?=base_url();?>user/utsg_trees">UTSG Trees</a></li>
           <li>Program Details</li>
         </ol>
       </div>

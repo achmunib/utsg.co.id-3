@@ -28,6 +28,7 @@
   <link href="<?=base_url();?>asset/css/style.css" rel="stylesheet">
   <link href="<?=base_url();?>asset/css/style2.css" rel="stylesheet">
   <link href="<?=base_url();?>asset/css/card.css" rel="stylesheet">
+  <link href="<?=base_url();?>asset/css/card2.css" rel="stylesheet">
 
 </head>
 
