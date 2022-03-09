@@ -1563,7 +1563,7 @@ section {
   color: #444444;
 }
 #footer .logo img {
-  max-height: 40px;
+  max-height: 30px;
 }
 @media (max-width: 768px) {
   #footer .copyright, #footer .credits {
@@ -1571,4 +1571,36 @@ section {
     text-align: center;
     padding: 2px 0;
   }
+}
+.thumb-title {
+  padding: 14px 24px;
+  background: #000;
+  font-size: 12px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  color: #ffffff;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.position-relative {
+  position: relative !important;
+}
+
+.image-hover {
+  overflow: hidden;
+}
+
+.image-hover img,
+.image-hover {
+  transition: transform 0.4s;
+  /* Animation */
+}
+
+.image-hover:hover img {
+  transform: scale(1.25);
 }

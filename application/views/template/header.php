@@ -14,6 +14,7 @@
           <li><a class="nav-link scrollto" href="#about">About Us</a></li>
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
           <li><a class="nav-link scrollto " href="#portfolio">Program</a></li>
+          <li><a class="nav-link scrollto " href="#news">News</a></li>
           <li><a class="nav-link scrollto" href="#team">Our Teams</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contact Us</a></li>
         </ul>
