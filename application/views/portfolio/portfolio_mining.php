@@ -4,7 +4,7 @@
     <div class="container">
 
       <div class="d-flex justify-content-between align-items-center">
-        <h2>Portfolio Details</h2>
+        <h2><b>Portfolio Details</b></h2>
         <ol>
           <li><a href="<?=base_url();?>">Home</a></li>
           <li>Portfolio Project</li>
@@ -127,7 +127,7 @@
                 <tr>
                   <td><b>Tahun</b></td>
                   <td style="vertical-align: text-top">:</td>
-                  <td>2010-sekarang</td>
+                  <td>2010-2019</td>
                 </tr>
                 <tr>
                   <td><b>Lokasi</b></td>

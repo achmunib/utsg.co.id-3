@@ -5,7 +5,7 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Portfolio Details</h2>
+          <h2><b>Portfolio Details</b></h2>
           <ol>
             <li><a href="<?=base_url();?>">Home</a></li>
             <li>Portfolio Project</li>

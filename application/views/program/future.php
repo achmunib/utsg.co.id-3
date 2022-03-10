@@ -4,7 +4,7 @@
     <div class="container">
 
       <div class="d-flex justify-content-between align-items-center">
-        <h2>Program Details</h2>
+        <h2><b>Program Details</b></h2>
         <ol>
           <li><a href="<?=base_url();?>">Home</a></li>
           <li><a href="<?=base_url();?>user/utsg_future">UTSG Future</a></li>
@@ -21,7 +21,13 @@
       <div class="card">
         <div class="row">
           <div class="col-md-5" data-aos="fade-right" data-aos-delay="100" >
-            <img src="<?=base_url();?>asset/img/program/Guru Bantu.jpeg" class="img-fluid" alt="utsg-trees-img">
+            <figure class="figure">
+              <img src="<?=base_url();?>asset/img/program/Guru Bantu.jpeg" class="img-fluid" alt="utsg-trees-img">
+              <figcaption class="figure-caption text-center fst-italic">
+                PT UTSG mengirimkan trainer
+                <br>25 Juni 2021  
+              </figcaption>
+            </figure>
           </div>
           <div class="col-lg-7 content d-flex flex-column" data-aos="fade-up" data-aos-delay="100" style="text-align: justify">
             <div class="card-block px-6">

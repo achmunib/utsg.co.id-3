@@ -27,7 +27,7 @@ class User extends CI_Controller
     $this->load->view('template/topbar');
     $this->load->view('portfolio/header');
     $this->load->view('portfolio/portfolio_mining', $data);
-    $this->load->view('template/footer');
+    $this->load->view('portfolio/footer');
   }
 
   public function portfolio_construction()
@@ -36,7 +36,7 @@ class User extends CI_Controller
     $this->load->view('template/topbar');
     $this->load->view('portfolio/header');
     $this->load->view('portfolio/portfolio_construction', $data);
-    $this->load->view('template/footer');
+    $this->load->view('portfolio/footer');
   }
 
   public function utsg_trees()
@@ -50,38 +50,47 @@ class User extends CI_Controller
 
   public function utsg_future()
   {
-    $data['title'] = 'UTSG TREES';
+    $data['title'] = 'UTSG FUTURE';
     $this->load->view('template/topbar');
     $this->load->view('portfolio/header');
     $this->load->view('program/future', $data);
-    $this->load->view('template/footer');
+    $this->load->view('portfolio/footer');
   }
 
   public function utsg_care()
   {
-    $data['title'] = 'UTSG TREES';
+    $data['title'] = 'UTSG CARE';
     $this->load->view('template/topbar');
     $this->load->view('portfolio/header');
     $this->load->view('program/care', $data);
-    $this->load->view('template/footer');
+    $this->load->view('portfolio/footer');
   }
 
   public function utsg_action()
   {
-    $data['title'] = 'UTSG TREES';
+    $data['title'] = 'UTSG ACTION';
     $this->load->view('template/topbar');
     $this->load->view('portfolio/header');
     $this->load->view('program/action', $data);
-    $this->load->view('template/footer');
+    $this->load->view('portfolio/footer');
   }
 
   public function utsg_growth()
   {
-    $data['title'] = 'UTSG TREES';
+    $data['title'] = 'UTSG GROWTH';
     $this->load->view('template/topbar');
     $this->load->view('portfolio/header');
     $this->load->view('program/growth', $data);
     $this->load->view('template/footer');
+  }
+
+  public function news()
+  {
+    $data['title'] = 'UTSG TREES';
+    $this->load->view('template/topbar');
+    $this->load->view('portfolio/header');
+    $this->load->view('news/all', $data);
+    $this->load->view('portfolio/footer');
   }
 
   // End Project

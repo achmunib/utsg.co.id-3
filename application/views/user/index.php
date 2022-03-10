@@ -2,7 +2,7 @@
   <section id="hero" class="d-flex align-items-center">
     <div class="container" data-aos="zoom-out" data-aos-delay="100">
       <h1>Selamat Datang <span><!-- UTSG --></span></h1>
-      <h2>Di PT. United Tractors Semen Gresik</h2>
+      <h2>Di PT United Tractors Semen Gresik</h2>
 
       <div class="d-flex">
         <a href="#about" class="btn-get-started scrollto">Memulai</a>
@@ -17,8 +17,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>ABOUT US</h2>
-          <h3>Tentang <span> Kami </span></h3>
+          <h2>ABOUT</h2>
+          <h3>Tentang <span> UTSG </span></h3>
           <p>PT UTSG adalah perusahaan yang berkomitmen untuk menjadi perusahaan pertambangan terbesar di Indonesia dengan mengutamakan kualitas.</p>
         </div>
 
@@ -29,19 +29,20 @@
           <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column" style="margin-top:40px;" data-aos="fade-up" data-aos-delay="100">
             <h4>PT UTSG didirikan pada tanggal 15 Oktober 1992</h4>
             <p class="fst-italic" style="text-align: justify">
-              PT United Tractors Semen Gresik merupakan anak perusahaan dari <b>PT Semen Indonesia Persero Tbk </b> yang merupakan produsen semen dengan Pangsa Pasar terbesar di Indonesia, dan <b> PT United Tractors Tbk </b> sebagai distributor alat berat, kontraktor pertambangan, pertambangan batubara, & emas serta sebagai penyedia energi listrik terkemuka di Indonesia.
+              PT UTSG merupakan anak perusahaan dari <b> PT Semen Indonesia Persero Tbk </b> yang merupakan produsen semen dengan Pangsa Pasar terbesar di Indonesia, dan <b> PT United Tractors Tbk </b> sebagai distributor alat berat, kontraktor pertambangan, pertambangan batubara & emas serta sebagai penyedia energi listrik terkemuka di Indonesia.
             </p>
             <ul style="margin-top:-20px" >
-                <img src="<?=base_url();?>asset/img/abouth.png" style="max-width: 200px; max-height: 200px; margin-top: 20px; margin-bottom: 20px; text-align: center;" class="img-fluid" alt="">
+              <img src="<?=base_url();?>asset/img/abouth.png" style="max-width: 200px; max-height: 200px; margin-top: 20px; margin-bottom: 20px; text-align: center;" class="img-fluid" alt="">
             </ul>
             <p style="margin-top:-20px; text-align: justify">
-             PT UTSG telah melalui berbagai tantangan, selalu berkomitmen untuk pembangunan berkelanjutan dan peningkatan nilai pelanggan.
+              PT UTSG berkomitmen untuk menjadi perusahaan jasa pertambangan quarry terbesar di Indonesia dengan mengutamakan kualitas dan telah melalui berbagai tantangan, selalu berkomitmen untuk pengembangan berkelanjutan dan peningkatan nilai pelanggan.
             </p>
           </div>
         </div>
 
       </div>
-    </section><!-- End About Section -->
+    </section>
+    <!-- End About Section -->
 
     <!-- ======= Testimonials Section ======= -->
     <section id="" class="testimonials">
@@ -56,7 +57,7 @@
                 <h3 style="margin-top: 30px;">VISI</h3>
                 <h2>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Become A Leading Business Partner in Quarry, Mining, <br>Construction, & Energy.
+                    Menjadi Mitra Bisnis Terkemuka di Quarry, Pertambangan, Konstruksi, & Energi.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </h2>
               </div>
@@ -140,16 +141,15 @@
             <h5 style="margin-top: 10px;">MINE SERVICE</h6>
             <h3 style="color:#0d6efd;">BIDANG JASA PERTAMBANGAN</h3>
             <p class="fst-italic">
-              1. Perencanaan dan pelaksanaan di bidang Pengangkutan.
-              <br>2. Perencanaan dan pelaksanaan di bidang Penambangan (pengupasan, pemuatan, pemindahan, pemberaian/pembongkaran, dan pengangkutan batuan/tanah penutup).
-              <br><b>Dilingkungan proyek-proyek pertambangan mineral & batubara</b>
+              Kualifikasi Bidang Usaha Jasa Pertambangan PT.UTSG meliputi kegiatan : 
+              Land Clearing, Stripping, Drilling, Blasting, Breaking, Loading, Hauling (Reguler), &
+              Surface Miner/Milling (Non Reguler) 
             </p>
             <br>
-
             <p style="margin-top:-20px">
-              Kualifikasi Bidang Usaha Jasa Pertambangan PT UTSG meliputi kegiatan : 
-              <b> Land Clearing, Stripping, Drilling, Blasting, Breaking, Loading, Hauling</b> (Reguler)<b>, &
-              Surface Miner/Milling</b> (Non Reguler) 
+              1. Perencanaan dan pelaksanaan dibidang Pengangkutan
+              <br>2. Perencanaan dan pelaksanaan dibidang Penambangan (pengupasan, pemuatan, pemindahan, pemberaian/pembongkaran dan pengangkutan batuan/tanah penutup).
+              <br><b>Di lingkungan proyek-proyek pertambangan mineral & batubara</b> 
               <br>
               <a href="<?=base_url();?>user/portfolio_mining" style="font-family:'Roboto', sans-serif; margin-top: 10px; text-transform: uppercase; font-weight: 500; font-size: 14px; letter-spacing: 1px; display: inline-block; padding: 10px 28px; border-radius: 20px; transition: 0.5s;color: #fff;background: #106eea;"> Pengalaman Project </a>
             </p>
@@ -410,7 +410,6 @@
 
         <div class="section-title">
           <h2>News</h2>
-          <!-- <h3>LINGKUNGAN & <span>KONTRIBUSI SOSIAL</span></h3> -->
           <p>Berita terkini di lingkungan PT UTSG</p>
         </div>
         <div class="row">
@@ -421,19 +420,21 @@
                   <div class="position-relative image-hover">
                     <img
                       src="<?=base_url();?>asset\img\news\zero-accident-2020kemenaker-ri.jpeg"
-                      class="img-fluid card-img-top"
+                      class="img-fluid card-img-top rounded mx-auto d-block"
                       alt="news-zero-accident-2020kemenaker-ri"
                       style="max-width: 300px; height: 210px"
                     />
                   </div>
                   <div class="card-body">
-                    <h5 class="font-weight-600 mt-3 card-title">
-                      UTSG terima Penghargaan Zero Accident dari KEMENAKER RI
+                    <h5 class="title-news font-weight-600 mt-3 card-title">
+                      PT UTSG terima Penghargaan Zero Accident dari KEMENAKER RI
                     </h5>
-                    <p class="fs-15 font-weight-normal">
-                      PT. United Tractors Semen Gresik kembali mendapatkan penghargaan                  
-                      <a href="#" class="text-decoration-none">Read more...</a>
+                    <p id="news1" class="desc-news fs-15 font-weight-normal">
+                      PT UTSG kembali mendapatkan penghargaan di bidang keselamatan dan 
+                      kesehatan kerja (K3) yaitu, penghargaan nihil kecelakaan kerja (Zero Accident Award) dari 
+                      Kementrian Ketenagakerjaan (Kemenaker) RI.
                     </p>
+                    <a href="#" class="text-decoration-none">Read more...</a>
                   </div>
                 </div>
               </div>
@@ -442,19 +443,21 @@
                   <div class="position-relative image-hover">
                     <img
                       src="<?=base_url();?>asset\img\news\pwi.png"
-                      class="img-fluid card-img-top"
+                      class="img-fluid card-img-top rounded mx-auto d-block"
                       alt="world-news"
                       style="max-width: 300px; height: 210px"
                     />
                   </div>
                   <div class="card-body">
-                    <h5 class="font-weight-600 mt-3 card-title">
+                    <h5 class="title-news font-weight-600 mt-3 card-title">
                       Penghargaan Mitra Terbaik PWI
                     </h5>
-                    <p class="fs-15 font-weight-normal">
-                      PT UTSG dinobatkan menjadi penerima PWI Award 2021 untuk kategori penghargaan Mitra Terbaik. 
-                      <a href="#" class="text-decoration-none">Read more...</a>
+                    <p id="news2" class="desc-news fs-15 font-weight-normal">
+                      PT UTSG dinobatkan menjadi penerima PWI Award 2021 untuk kategori penghargaan Mitra
+                      Terbaik. Penghargaan tersebut  langsung diserahkan oleh ketua PWI Kabupaten Tuban kepada 
+                      Section Head CSR & Humas UTSG.
                     </p>
+                    <a href="#" class="text-decoration-none">Read more...</a>
                   </div>
                 </div>
               </div>
@@ -463,19 +466,24 @@
                   <div class="position-relative image-hover">
                     <img
                       src="<?=base_url();?>asset\img\news\zero-accidenta-2020-jatim.jpeg"
-                      class="img-fluid card-img-top"
+                      class="img-fluid card-img-top rounded mx-auto d-block"
                       alt="world-news"
                       style="max-width: 300px; height: 210px"
                     />
                   </div>
                   <div class="card-body">
-                    <h5 class="font-weight-600 mt-3 card-title">
+                    <h5 class="title-news font-weight-600 mt-3 card-title">
                       Penghargan Zero Accident Gubernur Jawa Timur
                     </h5>
-                    <p class="fs-15 font-weight-normal">
-                      PT United Tractors Semen Gresik (UTSG) kembali menerima penghargaan Keselamatan dan Kesehatan  
-                      <a href="#" class="text-decoration-none">Read more...</a>                
+                    <p id="news3" class="desc-news fs-15 font-weight-normal">
+                      PT UTSG kembali menerima penghargaan Keselamatan 
+                      dan Kesehatan Kerja (K3) dari Gubernur Jawa Timur.
+                      Penyerahan penghargaan bersama 36 Perusahaan itu dilakukan secara langsung oleh 
+                      Bupati, Wakil Bupati dan Sekda, disaksikan oleh 
+                      Kepala Dinas Penanaman Modal Pelayanan Terpadu Satu Pintu dan 
+                      Tenaga Kerja (DPM PTSP dan Naker) Kabupaten Tuban. 
                     </p>
+                    <a href="#" class="text-decoration-none">Read more...</a>                
                   </div>
                 </div>
               </div>
@@ -484,24 +492,31 @@
                   <div class="position-relative image-hover">
                     <img
                       src="<?=base_url();?>asset\img\news\good-mining-practice.jpeg"
-                      class="img-fluid card-img-top"
+                      class="img-fluid card-img-top rounded mx-auto d-block"
                       alt="world-news"
                       style="max-width: 300px; height: 210px"
                     />
                   </div>
                   <div class="card-body">
-                    <h5 class="font-weight-600 mt-3 card-title">
+                    <h5 class="title-news font-weight-600 mt-3 card-title">
                       PT UTSG Raih Dua Penghargaan Good Mining Practice dari Kementrian ESDM
                     </h5>
-                    <p class="fs-15 font-weight-normal" style="">
-                      PT United Tractors Semen Gresik (UTSG) sukses               
-                      <a href="#" class="text-decoration-none">Read more...</a>                
+                    <p id="news4" class="desc-news fs-15 font-weight-normal" style="">
+                      PT United Tractors Semen Gresik (UTSG) sukses meraih dua penghargaan pada ajang 
+                      Penghargaan Penerapan Kaidah Teknik Pertambangan Mineral dan 
+                      Batubara yang Baik (Good Mining Practice Award-GMP) tahun 2021. 
+                      Penghargaan diberikan oleh Direktorat Jenderal (Dirjen) Mineral dan 
+                      Batubara (Minerba) Kementerian Energi dan Sumber Daya Mineral (ESDM) Republik Indonesia.
                     </p>
+                    <a href="#" class="text-decoration-none">Read more...</a>                
                   </div>
                 </div>
               </div>
             </div>
           </div>
+        </div>
+        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+          <a href="<?=base_url();?>user/news" style="font-family:'Roboto', sans-serif; margin-top: 10px; text-transform: uppercase; font-weight: 500; font-size: 14px; letter-spacing: 1px; display: inline-block; padding: 10px 28px; border-radius: 20px; transition: 0.5s;color: #fff;background: #106eea;text-align: center;"> View All News </a>
         </div>
       </div>
     </section>

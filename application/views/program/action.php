@@ -4,7 +4,7 @@
     <div class="container">
 
       <div class="d-flex justify-content-between align-items-center">
-        <h2>Program Details</h2>
+        <h2><b>Program Details</b></h2>
         <ol>
           <li><a href="<?=base_url();?>">Home</a></li>
           <li><a href="<?=base_url();?>user/utsg_trees">UTSG Action</a></li>
@@ -21,7 +21,13 @@
       <div class="card">
         <div class="row">
           <div class="col-md-5" data-aos="fade-right" data-aos-delay="100" >
-            <img src="<?=base_url();?>asset/img/program/Ramadhan.jpeg" class="img-fluid" alt="utsg-trees-img">
+            <figure class="figure">
+              <img src="<?=base_url();?>asset/img/program/Ramadhan.jpeg" class="img-fluid" alt="utsg-trees-img">
+              <figcaption class="figure-caption text-center fst-italic">
+                Santunan kepada 175 anak yatim dari 11 desa sekitar perusahaan
+                <br>5 Mei 2021
+              </figcaption>
+            </figure>          
           </div>
           <div class="col-lg-7 content d-flex flex-column" data-aos="fade-up" data-aos-delay="100" style="text-align: justify">
             <div class="card-block px-6">
@@ -54,8 +60,14 @@
               </p>
             </div>
           </div>
-          <div class="col-md-5" data-aos="fade-left" data-aos-delay="100" >
-            <img src="<?=base_url();?>asset/img/program/Qurban.jpeg" class="img-fluid" alt="utsg-trees-img">
+          <div class="col-md-5" data-aos="fade-left" data-aos-delay="100">
+            <figure class="figure">
+              <img src="<?=base_url();?>asset/img/program/Qurban.jpeg" class="img-fluid" alt="utsg-trees-img">
+              <figcaption class="figure-caption text-center fst-italic">
+                PT UTSG Tuban kembali menyalurkan hewan kurban kepada masyarakat.
+                <br>20 Juli 2021
+              </figcaption>
+            </figure>
           </div>
         </div>
       </div>
@@ -63,12 +75,18 @@
     <div class="container py-2">
       <div class="card">
         <div class="row">
-          <div class="col-md-5" data-aos="fade-right" data-aos-delay="100" >
-            <img src="<?=base_url();?>asset/img/program/Ramadhan.jpeg" class="img-fluid" alt="utsg-trees-img">
+          <div class="col-md-5" data-aos="fade-right" data-aos-delay="100">
+            <figure class="figure">
+              <img src="<?=base_url();?>asset/img/program/utsg-peduli-bencana-erupsi-semeru.jpeg" class="img-fluid" alt="utsg-trees-img">
+              <figcaption class="figure-caption text-center fst-italic">
+                Santunan kepada 175 anak yatim dari 11 desa sekitar perusahaan
+                <br>27 Desember 2021
+              </figcaption>
+            </figure>
           </div>
           <div class="col-lg-7 content d-flex flex-column" data-aos="fade-up" data-aos-delay="100" style="text-align: justify">
             <div class="card-block px-6">
-              <h4 class="card-title">UTSG Peduli Bencana Erupsi Semeru</h4>
+              <h4 class="card-title">PT UTSG Peduli Bencana Erupsi Semeru</h4>
               <p class="card-text" style="text-indent: 50px">
                 Di penghujung 2021 Indonesia berduka, hal tersebut dikarenakan bencana erupsi semeru yang terjadi di kabupaten lumajang di akhir November 2021. Kali ini kembali CSR UTSG menselaraskan program kemanusiaan perusahaan dengan mengirimkan 2 relawan selama darurat bencana tersebut yang bergabung dengan tim relawan AHEMCE.              
               </p>
