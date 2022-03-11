@@ -1,118 +1,84 @@
-<? $pages = 1 ?>
+<? $detail = 1?>
 <main id="main" data-aos="fade-up">
   <!-- ======= Breadcrumbs Section ======= -->
   <section class="breadcrumbs">
     <div class="container">
 
       <div class="d-flex justify-content-between align-items-center">
-        <h2><b>News</b></h2>
+        <h2><b>News Details</b></h2>
         <ol>
-          <li><a href="<?=base_url();?>#news">Home</a></li>
-          <li><a href="<?=base_url();?>user/news">News</a></li>
-          <li>All News</li>
+          <li><a href="<?=base_url();?>">Home</a></li>
+          <li><a href="<?=base_url();?>user/news/1">News</a></li>
+          <li>News Details</li>
         </ol>
       </div>
 
     </div>
   </section><!-- Breadcrumbs Section -->
 
-  <!-- ======= ALl News Section ======= -->
-  <section id="portfolio-details" class="portfolio-details light">
+  <!-- ======= News Details Section ======= -->
+  <section id="single-news" class="single-news">
     <div class="container">
       <div class="col-lg-12">
         <div class="card" data-aos="fade-up" style="background-color: #F1F6FE;">
           <div class="card-body">
             <div class="row">
               <div class="col-lg-8">
-                <div class="row grid-margin border-bottom">
-                  <div class="col-sm-4 grid-margin">
-                    <div class="image-hover">
-                      <img 
-                        src="<?=base_url();?>asset\img\news\zero-accident-2020kemenaker-ri.jpeg" 
-                        alt="banner"
-                        class="img-fluid"
-                      />
-                    </div>
+                <div class="sn-container">
+                  <div class="sn-img">
+                    <img 
+                      src="<?=base_url();?>asset\img\news\zero-accident-2020kemenaker-ri.jpeg" 
+                      alt="banner"
+                      class="img-fluid rounded mx-auto d-block"
+                    />
                   </div>
-                  <div class="col-sm-8">
-                    <h2 class="font-weight-600 mb-2">
+                  <div class="sn-content">
+                    <h1 class="sn-title">
                       PT UTSG terima Penghargaan Zero Accident dari KEMENAKER RI
-                    </h2>
-                    <p class="fs-20 text-muted mb-0">
-                      11 Maret 2022
+                    </h1>
+                    <p>
+                      PT United Tractors Semen Gresik kembali mendapatkan penghargaan di bidang 
+                      keselamatan dan kesehatan kerja (K3) yaitu, penghargaan nihil kecelakaan kerja 
+                      (Zero Accident Award) dari Kementrian Ketenagakerjaan (Kemenaker) RI.
                     </p>
-                    <p class="fs-15">
-                      PT. United Tractors Semen Gresik kembali mendapatkan penghargaan di bidang keselamatan dan kesehatan kerja (K3)                    
-                      <a href="<?=base_url();?>user/detail_news/1" class="text-decoration-none">Read more...</a>
+                    <p>
+                      Setelah mendapatkan penghargaan zero accident dari Gubernur Jawa Timur di awal tahun 2021, 
+                      di tahun yang sama tepatnya di penghujung tahun 2021 kembali UTSG meraih penghargaan 
+                      zero accident yang kali ini diberikan melalui Kementrian Ketenagakerjaan RI. 
+                      Penghargaan tersebut dinobatkan kepada UTSG atas capaian 8.759.756 jam kerja orang tanpa 
+                      kecelakaan kerja, terhitung sejak tanggal 01 November 2016 s.d 31 Oktober 2020. 
                     </p>
-                  </div>
-                </div>
-                <div class="row grid-margin border-bottom">
-                  <div class="col-sm-4 grid-margin">
-                    <div class="image-hover">
-                      <img 
-                        src="<?=base_url();?>asset\img\news\pwi.png" 
-                        alt="banner"
-                        class="img-fluid"
-                      />
-                    </div>
-                  </div>
-                  <div class="col-sm-8">
-                    <h2 class="font-weight-600 mb-2">
-                      Penghargaan Mitra Terbaik PWI
-                    </h2>
-                    <p class="fs-20 text-muted mb-0">
-                      11 Maret 2022
+                    <p>
+                      Penghargaan Zero Accident Award diberikan kepada Perusahaan dengan ketentuan, 
+                      tidak pernah terjadi kecelakaan kerja yang menghilangkan waktu kerja 
+                      selama minimal 3 ( tiga ) tahun berturut-turut.
                     </p>
-                    <p class="fs-15">
-                      PT UTSG dinobatkan menjadi penerima PWI Award 2021 untuk kategori penghargaan Mitra Terbaik. 
-                      <a href="<?=base_url();?>user/detail_news/2" class="text-decoration-none">Read more...</a>
+                    <p>
+                      Menurut Wiwit Dwi Widyatmoko selaku HC & Legal Division Head PT.UTSG mengungkapkan, 
+                      Bahwasanya hal tersebut tidak terlepas dari komitmen manajemen terkait penerapan K3 
+                      di setiap bisnisproses perusahaan. Sebagai bentuk wujud komiten dimana di tahun 2021 
+                      UTSG juga telah memperbaruhi beberapa sertifikasi diantaranya : 
+                      SMK3 berdasarkan PP 50 Tahun 2013, ISO 9001:2015, ISO 14001:2015, dan ISO 45001:2018.
                     </p>
-                  </div>
-                </div>
-                <div class="row grid-margin border-bottom">
-                  <div class="col-sm-4 grid-margin">
-                    <div class="image-hover">
-                      <img 
-                        src="<?=base_url();?>asset\img\news\zero-accidenta-2020-jatim.jpeg" 
-                        alt="banner"
-                        class="img-fluid"
-                      />
-                    </div>
-                  </div>
-                  <div class="col-sm-8">
-                    <h2 class="font-weight-600 mb-2">
-                      Penghargan Zero Accident Gubernur Jawa Timur
-                    </h2>
-                    <p class="fs-20 text-muted mb-0">
-                      11 Maret 2022                    
+                    <p>
+                      “Kami sangat berterima kasih atas penghargaan ini, pada dasarnya pengembangan 
+                      program-program safety di perusahaan, bukan sekedar memenuhi persyaratan perundangan saja, 
+                      tapi juga sebagai wujud tanggung-jawab moral sebagai pengelola perusahaan dalam memberikan 
+                      perlindungan terhadap pekerja,” ungkap pria yang akrab disapa wiwit, saat dijumpai dan 
+                      berdiskusi dengan awak media.
                     </p>
-                    <p class="fs-15">
-                      PT United Tractors Semen Gresik (UTSG) kembali menerima penghargaan Keselamatan dan Kesehatan  
-                      <a href="<?=base_url();?>user/detail_news/3" class="text-decoration-none">Read more...</a>
+                    <p>
+                      Sementara itu dimomen bersamaan, Budi Wahyudarsono C. selaku Director UTSG menyampaikan 
+                      harapan, kedepannya, bahwa UTSG dapat mempertahankan pencapaian yang telah diraih dan 
+                      terus meningkatkan penerapan SMK3 di lingkungan kerja perusahaan. 
                     </p>
-                  </div>
-                </div>
-                <div class="row grid-margin border-bottom">
-                  <div class="col-sm-4 grid-margin">
-                    <div class="image-hover">
-                      <img 
-                        src="<?=base_url();?>asset\img\news\good-mining-practice.jpeg" 
-                        alt="banner"
-                        class="img-fluid"
-                      />
-                    </div>
-                  </div>
-                  <div class="col-sm-8">
-                    <h2 class="font-weight-600 mb-2">
-                      PT UTSG Raih Dua Penghargaan Good Mining Practice dari Kementrian ESDM
-                    </h2>
-                    <p class="fs-20 text-muted mb-0">
-                      11 Maret 2022
-                    </p>
-                    <p class="fs-15">
-                      PT United Tractors Semen Gresik (UTSG) sukses               
-                      <a href="<?=base_url();?>user/detail_news/4" class="text-decoration-none">Read more...</a> 
+                    <p>
+                      “Penghargaan ini merupakan apresiasi bagi perusahaan yang terus menerapkan Sistem 
+                      Manajemen Keselamatan dan Kesehatan Kerja. Penerapan Sistem Manajemen Keselamatan dan 
+                      Kesehatan Kerja (SMK3) yang baik merupakan salah satu cara untuk menekan angka kecelakaan 
+                      di tempat kerja. Bila seluruh potensi bahaya yang ada berhasil dikendalikan sampai batas 
+                      standar aman, maka akan tercipta kondisi kerja yang nyaman, aman, dan sehat. 
+                      Sehingga proses kerja dapat berjalan dengan lancer”, ungkap Budi Wahyu (Director UTSG).
                     </p>
                   </div>
                 </div>
@@ -218,22 +184,9 @@
                 </div>
               </div>
             </div>
-            <div class="row">
-              <ul class="pagination justify-content-center">
-                <li class="page-item disabled">
-                  <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Previous</a>
-                </li>
-                <li class="page-item active"><a class="page-link" href="#">1</a></li>
-                <li class="page-item"><a class="page-link" href="<?=base_url();?>user/news/2">2</a></li>
-                <li class="page-item"><a class="page-link" href="#">3</a></li>
-                <li class="page-item">
-                  <a class="page-link" href="#">Next</a>
-                </li>
-              </ul>
-            </div>
           </div>
         </div>
-      </div>
+      </div>    
     </div>
-  </section><!-- End ALl News Section -->
+  </section><!-- End News Details Section -->
 </main><!-- End #main -->

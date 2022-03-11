@@ -434,7 +434,7 @@
                       kesehatan kerja (K3) yaitu, penghargaan nihil kecelakaan kerja (Zero Accident Award) dari 
                       Kementrian Ketenagakerjaan (Kemenaker) RI.
                     </p>
-                    <a href="#" class="text-decoration-none">Read more...</a>
+                    <a href="<?=base_url();?>user/detail_news/1" class="text-decoration-none">Read more...</a>
                   </div>
                 </div>
               </div>
@@ -457,7 +457,7 @@
                       Terbaik. Penghargaan tersebut  langsung diserahkan oleh ketua PWI Kabupaten Tuban kepada 
                       Section Head CSR & Humas UTSG.
                     </p>
-                    <a href="#" class="text-decoration-none">Read more...</a>
+                    <a href="<?=base_url();?>user/detail_news/2" class="text-decoration-none">Read more...</a>
                   </div>
                 </div>
               </div>
@@ -483,7 +483,7 @@
                       Kepala Dinas Penanaman Modal Pelayanan Terpadu Satu Pintu dan 
                       Tenaga Kerja (DPM PTSP dan Naker) Kabupaten Tuban. 
                     </p>
-                    <a href="#" class="text-decoration-none">Read more...</a>                
+                    <a href="<?=base_url();?>user/detail_news/3" class="text-decoration-none">Read more...</a>                
                   </div>
                 </div>
               </div>
@@ -508,7 +508,7 @@
                       Penghargaan diberikan oleh Direktorat Jenderal (Dirjen) Mineral dan 
                       Batubara (Minerba) Kementerian Energi dan Sumber Daya Mineral (ESDM) Republik Indonesia.
                     </p>
-                    <a href="#" class="text-decoration-none">Read more...</a>                
+                    <a href="<?=base_url();?>user/detail_news/4" class="text-decoration-none">Read more...</a>                
                   </div>
                 </div>
               </div>
@@ -516,7 +516,7 @@
           </div>
         </div>
         <div class="d-grid gap-2 d-md-flex justify-content-md-end">
-          <a href="<?=base_url();?>user/news" style="font-family:'Roboto', sans-serif; margin-top: 10px; text-transform: uppercase; font-weight: 500; font-size: 14px; letter-spacing: 1px; display: inline-block; padding: 10px 28px; border-radius: 20px; transition: 0.5s;color: #fff;background: #106eea;text-align: center;"> View All News </a>
+          <a href="<?=base_url();?>user/news/1" style="font-family:'Roboto', sans-serif; margin-top: 10px; text-transform: uppercase; font-weight: 500; font-size: 14px; letter-spacing: 1px; display: inline-block; padding: 10px 28px; border-radius: 20px; transition: 0.5s;color: #fff;background: #106eea;text-align: center;"> View All News </a>
         </div>
       </div>
     </section>

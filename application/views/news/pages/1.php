@@ -1,4 +1,4 @@
-<? $pages = 1 ?>
+<? $halaman = 1?>
 <main id="main" data-aos="fade-up">
   <!-- ======= Breadcrumbs Section ======= -->
   <section class="breadcrumbs">
@@ -227,7 +227,7 @@
                 <li class="page-item"><a class="page-link" href="<?=base_url();?>user/news/2">2</a></li>
                 <li class="page-item"><a class="page-link" href="#">3</a></li>
                 <li class="page-item">
-                  <a class="page-link" href="#">Next</a>
+                  <a class="page-link" href="<?=base_url();?>user/news/2">Next</a>
                 </li>
               </ul>
             </div>
