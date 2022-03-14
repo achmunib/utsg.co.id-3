@@ -35,16 +35,14 @@
                     </div>
                   </div>
                   <div class="col-sm-8">
-                    <h2 class="font-weight-600 mb-2">
+                    <h3 class="font-weight-600 mb-2 title-news-pages">
                       PT UTSG terima Penghargaan Zero Accident dari KEMENAKER RI
-                    </h2>
-                    <p class="fs-20 text-muted mb-0">
-                      11 Maret 2022
+                    </h3>
+                    <p class="fs-15 desc-news-pages">
+                      PT United Tractors Semen Gresik kembali mendapatkan penghargaan di bidang keselamatan dan kesehatan kerja (K3) yaitu, penghargaan nihil kecelakaan kerja (Zero Accident Award) dari Kementrian Ketenagakerjaan (Kemenaker) RI.                      
                     </p>
-                    <p class="fs-15">
-                      PT. United Tractors Semen Gresik kembali mendapatkan penghargaan di bidang keselamatan dan kesehatan kerja (K3)                    
-                      <a href="<?=base_url();?>user/detail_news/1" class="text-decoration-none">Read more...</a>
-                    </p>
+                    <a href="<?=base_url();?>user/detail_news/1" class="read-more">Read more...</a>
+                    <span class="time-post">11 Maret 2022</span>
                   </div>
                 </div>
                 <div class="row grid-margin border-bottom">
@@ -58,16 +56,14 @@
                     </div>
                   </div>
                   <div class="col-sm-8">
-                    <h2 class="font-weight-600 mb-2">
+                    <h3 class="font-weight-600 mb-2 title-news-pages">
                       Penghargaan Mitra Terbaik PWI
-                    </h2>
-                    <p class="fs-20 text-muted mb-0">
-                      11 Maret 2022
+                    </h3>
+                    <p class="fs-15 desc-news-pages">
+                      PT UTSG dinobatkan menjadi penerima PWI Award 2021 untuk kategori penghargaan Mitra Terbaik. Penghargaan tersebut  langsung diserahkan oleh ketua PWI Kabupaten Tuban kepada Section Head CSR & Humas UTSG.                      
                     </p>
-                    <p class="fs-15">
-                      PT UTSG dinobatkan menjadi penerima PWI Award 2021 untuk kategori penghargaan Mitra Terbaik. 
-                      <a href="<?=base_url();?>user/detail_news/2" class="text-decoration-none">Read more...</a>
-                    </p>
+                    <a href="<?=base_url();?>user/detail_news/2" class="read-more">Read more...</a>
+                    <span class="time-post">11 Maret 2022</span>
                   </div>
                 </div>
                 <div class="row grid-margin border-bottom">
@@ -81,16 +77,14 @@
                     </div>
                   </div>
                   <div class="col-sm-8">
-                    <h2 class="font-weight-600 mb-2">
+                    <h3 class="font-weight-600 mb-2 title-news-pages">
                       Penghargan Zero Accident Gubernur Jawa Timur
-                    </h2>
-                    <p class="fs-20 text-muted mb-0">
-                      11 Maret 2022                    
+                    </h3>
+                    <p class="fs-15 desc-news-pages">
+                      PT United Tractors Semen Gresik (UTSG) kembali menerima penghargaan Keselamatan dan Kesehatan Kerja (K3) dari Gubernur Jawa Timur.
                     </p>
-                    <p class="fs-15">
-                      PT United Tractors Semen Gresik (UTSG) kembali menerima penghargaan Keselamatan dan Kesehatan  
-                      <a href="<?=base_url();?>user/detail_news/3" class="text-decoration-none">Read more...</a>
-                    </p>
+                    <a href="<?=base_url();?>user/detail_news/3" class="read-more">Read more...</a>
+                    <span class="time-post">11 Maret 2022</span>
                   </div>
                 </div>
                 <div class="row grid-margin border-bottom">
@@ -104,16 +98,14 @@
                     </div>
                   </div>
                   <div class="col-sm-8">
-                    <h2 class="font-weight-600 mb-2">
+                    <h3 class="font-weight-600 mb-2 title-news-pages">
                       PT UTSG Raih Dua Penghargaan Good Mining Practice dari Kementrian ESDM
-                    </h2>
-                    <p class="fs-20 text-muted mb-0">
-                      11 Maret 2022
+                    </h3>
+                    <p class="fs-15 desc-news-pages">
+                      PT United Tractors Semen Gresik (UTSG) sukses meraih dua penghargaan pada ajang Penghargaan Penerapan Kaidah Teknik Pertambangan Mineral dan Batubara yang Baik (Good Mining Practice Award-GMP) tahun 2021. Penghargaan diberikan oleh Direktorat Jenderal (Dirjen) Mineral dan Batubara (Minerba) Kementerian Energi dan Sumber Daya Mineral (ESDM) Republik Indonesia.              
                     </p>
-                    <p class="fs-15">
-                      PT United Tractors Semen Gresik (UTSG) sukses               
-                      <a href="<?=base_url();?>user/detail_news/4" class="text-decoration-none">Read more...</a> 
-                    </p>
+                    <a href="<?=base_url();?>user/detail_news/4" class="read-more">Read more...</a>
+                    <span class="time-post">11 Maret 2022</span>
                   </div>
                 </div>
               </div>

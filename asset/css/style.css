@@ -1607,7 +1607,7 @@ section {
   border-bottom: 1px solid #e6e7e8 !important;
 }
 .title-news {
-  color: #106EEA;
+  /* color: #106EEA; */
   word-break: break-word;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -1616,6 +1616,10 @@ section {
   height: 42px; 
   -webkit-line-clamp: 2; 
   -webkit-box-orient: vertical;
+}
+.title-news:hover{
+  color: #3b8af2;
+  text-decoration: none;
 }
 .desc-news {
   word-break: break-word;
@@ -1628,7 +1632,6 @@ section {
   -webkit-box-orient: vertical;
 }
 .title-news-highlight {
-  color: #106EEA;
   word-break: break-word;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -1636,6 +1639,34 @@ section {
   line-height: 30px;
   height: 64px; 
   -webkit-line-clamp: 2; 
+  -webkit-box-orient: vertical;
+}
+.title-news-highlight:hover{
+  color: #3b8af2;
+  text-decoration: none;
+}
+.title-news-pages {
+  word-break: break-word;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  line-height: 30px;
+  height: 60px; 
+  -webkit-line-clamp: 2; 
+  -webkit-box-orient: vertical;
+}
+.title-news-pages:hover{
+  color: #3b8af2;
+  text-decoration: none;
+}
+.desc-news-pages {
+  word-break: break-word;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  line-height: 20px;
+  height: 60px; 
+  -webkit-line-clamp: 3; 
   -webkit-box-orient: vertical;
 }
 .trending {
@@ -1671,6 +1702,7 @@ section {
   display: block;
   width: 100%;
   color: #000000;
+  text-align: center;
 }
 
 .single-news .sn-related {
@@ -1765,4 +1797,22 @@ section {
 
 .single-news .sn-slider .slick-next::before {
   content: "\f105";
+}
+
+.read-more {
+  background-color: #0d6efd;
+  color: white;
+  padding: 1px 10px 1px 10px;
+  border-radius: 5px;
+}
+.read-more:hover{
+  color: #F1F6FE;
+  background-color: #4b93ff;
+}
+.time-post {
+  background-color: #000000;
+  text-align: center;
+  color: white;
+  padding: 1px 10px 1px 10px;
+  border-radius: 5px;
 }

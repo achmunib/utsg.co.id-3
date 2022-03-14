@@ -1,12 +1,12 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center">
     <div class="container" data-aos="zoom-out" data-aos-delay="100">
-      <h1>Welcome</h1>
+      <h1>Welcome to</h1>
       <h2>PT United Tractors Semen Gresik</h2>
 
       <div class="d-flex">
         <a href="#about" class="btn-get-started scrollto">Start</a>
-        <a href="https://www.youtube.com/watch?v=BK25q9F9-MY" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span> See Video</span></a>
+        <a href="https://www.youtube.com/watch?v=BK25q9F9-MY" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Video Company Profile</span></a>
       </div>
     </div>
   </section><!-- End Hero -->
@@ -71,7 +71,7 @@
     </section><!-- End Testimonials Section -->
 
     <!-- ======= Frequently Asked Questions Section ======= -->
-    <section id="faq" class="faq ">
+    <section id="faq" class="faq section-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -106,7 +106,7 @@
       </div>
     </section>
 
-    <section id="" class="section section-bg">
+    <section id="" class="section">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -125,7 +125,7 @@
     </section>
 
     <!-- ======= Featured Services Section ======= -->
-    <section id="services" class="featured-services ">
+    <section id="services" class="featured-services section-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -208,7 +208,7 @@
     </section><!-- End Featured Services Section -->
 
     <!-- ======= Clients Section ======= -->
-    <section  id="clients" class="clients section-bg" >
+    <section  id="clients" class="clients" >
       <div class="container" data-aos="zoom-in" >
 
         <div class="section-title">
@@ -279,7 +279,7 @@
     </section>
 
     <!-- ======= Team Section ======= -->
-    <section id="team" class="team">
+    <section id="team" class="team section-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title" >
@@ -297,12 +297,6 @@
                 <div class="member">
                   <div class="member-img">
                     <img src="<?=base_url();?>asset/img/team/1.JPG" class="img-fluid" alt="">
-                    <div class="social">
-                      <!-- <a href=""><i class="bi bi-twitter"></i></a> -->
-                      <a href=""><i class="bi bi-facebook"></i></a>
-                      <a href=""><i class="bi bi-instagram"></i></a>
-                      <a href=""><i class="bi bi-linkedin"></i></a>
-                    </div>
                   </div>
                   <div class="member-info">
                     <h4>DONY PRASETYO</h4>
@@ -315,12 +309,6 @@
                 <div class="member">
                   <div class="member-img">
                     <img src="<?=base_url();?>asset/img/team/2.JPG" class="img-fluid" alt="">
-                    <div class="social">
-                      <!-- <a href=""><i class="bi bi-twitter"></i></a> -->
-                      <a href=""><i class="bi bi-facebook"></i></a>
-                      <a href=""><i class="bi bi-instagram"></i></a>
-                      <a href=""><i class="bi bi-linkedin"></i></a>
-                    </div>
                   </div>
                   <div class="member-info">
                     <h4>BUDI WAHYUDARSONO C, SE, CA</h4>
@@ -336,12 +324,6 @@
             <div class="member">
               <div class="member-img">
                 <img src="<?=base_url();?>asset/img/team/3.JPG" class="img-fluid" alt="">
-                <div class="social">
-                  <!-- <a href=""><i class="bi bi-twitter"></i></a> -->
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
               </div>
               <div class="member-info">
                 <h4>WIWIT DWI WIDYATMOKO</h4>
@@ -354,12 +336,6 @@
             <div class="member">
               <div class="member-img">
                 <img src="<?=base_url();?>asset/img/team/4.JPG" class="img-fluid" alt="">
-                <div class="social">
-                  <!-- <a href=""><i class="bi bi-twitter"></i></a> -->
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
               </div>
               <div class="member-info">
                 <h4>ACHMAD SIRRUL ATHO'</h4>
@@ -372,15 +348,9 @@
             <div class="member">
               <div class="member-img">
                 <img src="<?=base_url();?>asset/img/team/5.JPG" class="img-fluid" alt="">
-                <div class="social">
-                  <!-- <a href=""><i class="bi bi-twitter"></i></a> -->
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
               </div>
               <div class="member-info">
-                <h6>RM HENDRA HADIWIJAYA</h6>
+                <h4>RM HENDRA HADIWIJAYA</h4>
                 <span>Corporate Strategic & Technology Department Head</span>
               </div>
             </div>
@@ -390,15 +360,9 @@
             <div class="member">
               <div class="member-img">
                 <img src="<?=base_url();?>asset/img/team/6.JPG" class="img-fluid" alt="">
-                <div class="social">
-                  <!-- <a href=""><i class="bi bi-twitter"></i></a> -->
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
               </div>
               <div class="member-info">
-                <h6>HARIYANTO</h6>
+                <h4>HARIYANTO</h4>
                 <span>Engineering & Project Control Department Head</span>
               </div>
             </div>
@@ -408,15 +372,9 @@
             <div class="member">
               <div class="member-img">
                 <img src="<?=base_url();?>asset/img/team/7.JPG" class="img-fluid" alt="">
-                <div class="social">
-                  <!-- <a href=""><i class="bi bi-twitter"></i></a> -->
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
               </div>
               <div class="member-info">
-                <h6>TAUFIKUR RACHMAN</h6>
+                <h4>TAUFIKUR RACHMAN</h4>
                 <span>Corporate Finance & Accounting Department Head</span>
               </div>
             </div>
@@ -426,15 +384,9 @@
             <div class="member">
               <div class="member-img">
                 <img src="<?=base_url();?>asset/img/team/8.JPG" class="img-fluid" alt="">
-                <div class="social">
-                  <!-- <a href=""><i class="bi bi-twitter"></i></a> -->
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
               </div>
               <div class="member-info">
-                <h6>AGUS WIDJAKSONO</h6>
+                <h4>AGUS WIDJAKSONO</h4>
                 <span>Corporate Asset & Rental Management Department Head</span>
               </div>
             </div>
@@ -443,15 +395,9 @@
             <div class="member">
               <div class="member-img">
                 <img src="<?=base_url();?>asset/img/team/9.JPG" class="img-fluid" alt="">
-                <div class="social">
-                  <!-- <a href=""><i class="bi bi-twitter"></i></a> -->
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
               </div>
               <div class="member-info">
-                <h6>AFAN MAHMUD</h6>
+                <h4>AFAN MAHMUD</h4>
                 <span>Procurement Department Head</span>
               </div>
             </div>
@@ -460,15 +406,9 @@
             <div class="member">
               <div class="member-img">
                 <img src="<?=base_url();?>asset/img/team/10.JPG" class="img-fluid" alt="">
-                <div class="social">
-                  <!-- <a href=""><i class="bi bi-twitter"></i></a> -->
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
               </div>
               <div class="member-info">
-                <h6>NOVITA ELVI K.</h6>
+                <h4>NOVITA ELVI K.</h4>
                 <span>Internal Audit Department Head</span>
               </div>
             </div>
@@ -634,7 +574,7 @@
                       kesehatan kerja (K3) yaitu, penghargaan nihil kecelakaan kerja (Zero Accident Award) dari 
                       Kementrian Ketenagakerjaan (Kemenaker) RI.
                     </p>
-                    <a href="<?=base_url();?>user/detail_news/1" class="text-decoration-none">Read more...</a>
+                    <a href="<?=base_url();?>user/detail_news/1" class="read-more">Read more...</a>
                   </div>
                 </div>
               </div>
@@ -657,7 +597,7 @@
                       Terbaik. Penghargaan tersebut  langsung diserahkan oleh ketua PWI Kabupaten Tuban kepada 
                       Section Head CSR & Humas UTSG.
                     </p>
-                    <a href="<?=base_url();?>user/detail_news/2" class="text-decoration-none">Read more...</a>
+                    <a href="<?=base_url();?>user/detail_news/2" class="read-more">Read more...</a>
                   </div>
                 </div>
               </div>
@@ -683,7 +623,7 @@
                       Kepala Dinas Penanaman Modal Pelayanan Terpadu Satu Pintu dan 
                       Tenaga Kerja (DPM PTSP dan Naker) Kabupaten Tuban. 
                     </p>
-                    <a href="<?=base_url();?>user/detail_news/3" class="text-decoration-none">Read more...</a>                
+                    <a href="<?=base_url();?>user/detail_news/3" class="read-more">Read more...</a>                
                   </div>
                 </div>
               </div>
@@ -708,7 +648,7 @@
                       Penghargaan diberikan oleh Direktorat Jenderal (Dirjen) Mineral dan 
                       Batubara (Minerba) Kementerian Energi dan Sumber Daya Mineral (ESDM) Republik Indonesia.
                     </p>
-                    <a href="<?=base_url();?>user/detail_news/4" class="text-decoration-none">Read more...</a>                
+                    <a href="<?=base_url();?>user/detail_news/4" class="read-more">Read more...</a>                
                   </div>
                 </div>
               </div>
