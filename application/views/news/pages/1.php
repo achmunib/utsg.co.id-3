@@ -225,7 +225,7 @@
                 </li>
                 <li class="page-item active"><a class="page-link" href="#">1</a></li>
                 <li class="page-item"><a class="page-link" href="<?=base_url();?>user/news/2">2</a></li>
-                <li class="page-item"><a class="page-link" href="#">3</a></li>
+                <li class="page-item"><a class="page-link" href="<?=base_url();?>user/news/3">3</a></li>
                 <li class="page-item">
                   <a class="page-link" href="<?=base_url();?>user/news/2">Next</a>
                 </li>

@@ -20,7 +20,7 @@
     <div class="container py-2">
       <div class="card">
         <div class="row">
-          <div class="col-md-5" data-aos="fade-right" data-aos-delay="100" >
+          <div class="col-md-5 d-flex align-items-center" data-aos="fade-right" data-aos-delay="100" >
             <figure class="figure">
               <img src="<?=base_url();?>asset/img/program/Vaksin.jpeg" class="img-fluid" alt="utsg-trees-img">
               <figcaption class="figure-caption text-center fst-italic">
@@ -69,7 +69,7 @@
               </p>
             </div>
           </div>
-          <div class="col-md-5" data-aos="fade-left" data-aos-delay="100">
+          <div class="col-md-5 d-flex align-items-center" data-aos="fade-left" data-aos-delay="100">
             <figure class="figure">
               <img src="<?=base_url();?>asset/img/program/Posyandu.jpeg" class="img-fluid" alt="utsg-trees-img">
               <figcaption class="figure-caption text-center fst-italic">

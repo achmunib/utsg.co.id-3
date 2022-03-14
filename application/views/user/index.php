@@ -1,12 +1,12 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center">
     <div class="container" data-aos="zoom-out" data-aos-delay="100">
-      <h1>Selamat Datang <span><!-- UTSG --></span></h1>
-      <h2>Di PT United Tractors Semen Gresik</h2>
+      <h1>Welcome</h1>
+      <h2>PT United Tractors Semen Gresik</h2>
 
       <div class="d-flex">
-        <a href="#about" class="btn-get-started scrollto">Memulai</a>
-        <a href="https://www.youtube.com/watch?v=BK25q9F9-MY" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span> Melihat Video</span></a>
+        <a href="#about" class="btn-get-started scrollto">Start</a>
+        <a href="https://www.youtube.com/watch?v=BK25q9F9-MY" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span> See Video</span></a>
       </div>
     </div>
   </section><!-- End Hero -->
@@ -24,9 +24,9 @@
 
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">
-            <img style="max-width: 100%; max-height: 100%; margin-top: -40px; margin-bottom: -60px;" src="<?=base_url();?>asset/img/scets/Office.png" class="img-fluid" alt="">
+            <img style="max-width: 110%; max-height: 100%; margin-top: -40px; margin-bottom: -60px;" src="<?=base_url();?>asset/img/scets/Office.png" class="img-fluid" alt="">
           </div>
-          <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column" style="margin-top:40px;" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column" style="margin-top:10px;" data-aos="fade-up" data-aos-delay="100">
             <h4>PT UTSG didirikan pada tanggal 15 Oktober 1992</h4>
             <p class="fst-italic" style="text-align: justify">
               PT UTSG merupakan anak perusahaan dari <b> PT Semen Indonesia Persero Tbk </b> yang merupakan produsen semen dengan Pangsa Pasar terbesar di Indonesia, dan <b> PT United Tractors Tbk </b> sebagai distributor alat berat, kontraktor pertambangan, pertambangan batubara & emas serta sebagai penyedia energi listrik terkemuka di Indonesia.
@@ -278,252 +278,8 @@
       </div>
     </section>
 
-    <!-- ======= Services Section ======= -->
-    <section id="services" class="services ">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <!-- <h2>Services</h2> -->
-          <h3>KESELAMATAN KESEHATAN, LINGKUNGAN, &<span> MANAJEMEN MUTU </span></h3>
-          <p>PENERAPAN SISTEM MANAGEMENT K3</p>
-        </div>
-
-        <div class="row justify-content-center">
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box justify-content-center">
-              <img src="<?=base_url();?>asset/img/Enfirontment/1.jpg" style="max-width: 100%; max-height: 150px; object-fit: contain;" class="img-fluid mb-2" alt="">              
-              <h4><a href="">SMK3 PP 50 Tahun 2012</a></h4>
-              <p style="text-align: justify">Sertifikat penghargaan kepada PT United Tractors Semen Gresik dari Menteri Ketenagakerjaan R.I atas prestasi dalam penerapan Sistem Management K3 pada tanggal 30 Juli 2018 dengan predikat “Gold” </p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
-            <div class="icon-box">
-              <img src="<?=base_url();?>asset/img/Enfirontment/2.jpg" style="max-width: 100%; max-height: 150px; object-fit: contain;" class="img-fluid mb-2" alt="">
-              <h4><a href="">ISO 14001 : 2015</a></h4>
-              <p style="text-align: justify">Sertifikat penghargaan kepada PT United Tractors Semen Gresik dari Empowering Assurance System dalam penerapan “The Provision of Limestone & Clay Mining Operation Services “ISO 14001 : 2015, on Maret 27 .2018</p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon-box">
-              <img src="<?=base_url();?>asset/img/Enfirontment/3.jpg" class="img-fluid mb-2"  style="max-width: 100%; max-height: 150px; object-fit: contain;" alt="">
-              <h4><a href="">OHSAS 18001 : 2007</a></h4>
-              <p style="text-align: justify">Sertifikat penghargaan kepada PT United Tractors Semen Gresik dari Empowering Assurance System dalam penerapan “The Provision of Limestone & Clay Mining Operation Services“ OHSA 18001 : 2007, on Maret 27 .2018</p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box">
-              <img src="<?=base_url();?>asset/img/Enfirontment/4.jpg" class="img-fluid mb-2" style="max-width: 100%; max-height: 150px; object-fit: contain;" alt="">
-              <h4><a href="">ASTRA GREEN COMPANY</a></h4>
-              <p style="text-align: justify">Sertifikat penghargaan kepada PT United Tractors Semen Gresik ASTRA sebagai penghargaan dalam penerapan “Environmental Health and Safety (EHS) dengan achivement level BLUE</p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
-            <div class="icon-box">
-              <img src="<?=base_url();?>asset/img/Enfirontment/5.jpg" class="img-fluid mb-2" style="max-width: 100%; max-height: 150px; object-fit: contain;" alt="">
-              <h4><a href="">QUALITY MANAGEMENT</a></h4>
-              <p style="text-align: justify">Sistem Manajemen Mutu menjadi prioritas utama kami dalam memenuhi kebutuhan pelanggan dan membangun hubungan yang kuat untuk dapat memberikan nilai tambah pada operasi pelanggan, tentunya dengan penerapan Sistem Manajemen Mutu PT UTSG</p>
-            </div>
-          </div>
-
-
-        </div>
-
-      </div>
-    </section><!-- End Services Section -->
-
-    <!-- ======= Portfolio Section ======= -->
-    <section id="portfolio" class="featured-services section-bg">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Program</h2>
-          <h3>LINGKUNGAN & <span>KONTRIBUSI SOSIAL</span></h3>
-          <p> Program & Tanggung Jawab Sosial diperusahaan kami.</p>
-        </div>
-
-        <div class="row col-md-12" style="justify-content: center;">
-          
-          <div class="col-md-4 col-lg-4 d-flex align-items-stretch"  style="margin-bottom: 1px; margin-top:1%;">
-            <!-- <a href="<?=base_url();?>user/utsg_trees"> -->
-            <a href="#portfolio">
-              <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                <div class="icon col-lg-2 col-md-4 col-4 d-flex align-items-center"> <img style="max-width: 120px; max-height: 120px;" src="asset/img/sustainability/trees1.png"    class="img-fluid" alt=""> </div>
-                <h4 class="title"><a href=""></a></h4>
-                <p class="description">UTSG for Nature and Environment Sustainability (Bidang Lingkungan) </p>
-              </div>
-            </a>
-          </div>
-        
-          <div class="col-md-4 col-lg-4 d-flex align-items-stretch " style="margin-bottom: 1px; margin-top:1%;">
-            <a href="<?=base_url();?>user/utsg_future">
-              <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
-                <div class="icon col-lg-2 col-md-4 col-4 d-flex align-items-center"><img style="max-width: 120px; max-height: 120px;" src="asset/img/sustainability/Future.png" class="img-fluid" alt=""></div>
-                <h4 class="title"><a href=""></a></h4>
-                <p class="description">UTSG for Education and Bright Future (Bidang Pendidikan)</p>
-              </div>
-            </a>
-          </div>
-        
-          <div class="col-md-4 col-lg-4 d-flex align-items-stretch " style="margin-bottom: 1px; margin-top:1%;">
-            <a href="<?=base_url();?>user/utsg_care">
-              <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
-                <div class="icon col-lg-2 col-md-4 col-4 align-items-center"><img style="max-width: 120px; max-height: 120px;" src="asset/img/sustainability/Care.png" class="img-fluid" alt=""></div>
-                <h4 class="title"><a href=""></a></h4>
-                <p class="description">UTSG for Generating Opportunities and Wealth (Bidang Pemberdayaan Ekonomi Masyarakat)</p>
-              </div>
-            </a>
-          </div>
-          
-          <div class="col-md-4 col-lg-4 d-flex align-items-stretch "style="margin-bottom: 1px; margin-top:1%;">
-            <a href="<?=base_url();?>user/utsg_action">
-              <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                <div class="icon col-lg-2 col-md-4 col-4 d-flex align-items-center"> <img style="max-width: 150px; max-height: 150px;" src="asset/img/sustainability/Action.png" class="img-fluid" alt=""> </div>
-                <h4 class="title"><a href=""></a></h4>
-                <p class="description">UTSG for Community Health Responsibility (Bidang Kesehatan Masyarakat) </p>
-              </div>
-            </a>
-          </div>
-        
-          <div class="col-md-4 col-lg-4 d-flex align-items-stretch " style="margin-bottom: 1px; margin-top:1%;">
-            <!-- <a href="<?=base_url();?>user/utsg_growth"> -->
-            <a href="#portfolio">
-              <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
-                <div class="icon col-lg-2 col-md-4 col-4 d-flex align-items-center"><img style="max-width: 110px; max-height: 110px;" src="asset/img/sustainability/Growth.png" class="img-fluid" alt=""></div>
-                <h4 class="title"><a href=""></a></h4>
-                <p class="description">UTSG for Emergency Respone and Action (Bidang Tanggap Darurat)</p>
-              </div>
-            </a>
-          </div>
-
-        </div>
-      </div>
-    </section>
-    <!-- End Portfolio Section -->
-
-    <!-- ======= News Section ======= -->
-    <section id="news" class="featured-services">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>News</h2>
-          <p>Berita terkini di lingkungan PT UTSG</p>
-        </div>
-        <div class="row">
-          <div class="col-lg-12">
-            <div class="row">
-              <div class="col-sm-3 mb-5 mb-sm-2">
-                <div class="card">
-                  <div class="position-relative image-hover">
-                    <img
-                      src="<?=base_url();?>asset\img\news\zero-accident-2020kemenaker-ri.jpeg"
-                      class="img-fluid card-img-top rounded mx-auto d-block"
-                      alt="news-zero-accident-2020kemenaker-ri"
-                      style="max-width: 300px; height: 210px"
-                    />
-                  </div>
-                  <div class="card-body">
-                    <h5 class="title-news font-weight-600 mt-3 card-title">
-                      PT UTSG terima Penghargaan Zero Accident dari KEMENAKER RI
-                    </h5>
-                    <p id="news1" class="desc-news fs-15 font-weight-normal">
-                      PT UTSG kembali mendapatkan penghargaan di bidang keselamatan dan 
-                      kesehatan kerja (K3) yaitu, penghargaan nihil kecelakaan kerja (Zero Accident Award) dari 
-                      Kementrian Ketenagakerjaan (Kemenaker) RI.
-                    </p>
-                    <a href="<?=base_url();?>user/detail_news/1" class="text-decoration-none">Read more...</a>
-                  </div>
-                </div>
-              </div>
-              <div class="col-sm-3 mb-5 mb-sm-2">
-                <div class="card">
-                  <div class="position-relative image-hover">
-                    <img
-                      src="<?=base_url();?>asset\img\news\pwi.png"
-                      class="img-fluid card-img-top rounded mx-auto d-block"
-                      alt="world-news"
-                      style="max-width: 300px; height: 210px"
-                    />
-                  </div>
-                  <div class="card-body">
-                    <h5 class="title-news font-weight-600 mt-3 card-title">
-                      Penghargaan Mitra Terbaik PWI
-                    </h5>
-                    <p id="news2" class="desc-news fs-15 font-weight-normal">
-                      PT UTSG dinobatkan menjadi penerima PWI Award 2021 untuk kategori penghargaan Mitra
-                      Terbaik. Penghargaan tersebut  langsung diserahkan oleh ketua PWI Kabupaten Tuban kepada 
-                      Section Head CSR & Humas UTSG.
-                    </p>
-                    <a href="<?=base_url();?>user/detail_news/2" class="text-decoration-none">Read more...</a>
-                  </div>
-                </div>
-              </div>
-              <div class="col-sm-3 mb-5 mb-sm-2">
-                <div class="card">
-                  <div class="position-relative image-hover">
-                    <img
-                      src="<?=base_url();?>asset\img\news\zero-accidenta-2020-jatim.jpeg"
-                      class="img-fluid card-img-top rounded mx-auto d-block"
-                      alt="world-news"
-                      style="max-width: 300px; height: 210px"
-                    />
-                  </div>
-                  <div class="card-body">
-                    <h5 class="title-news font-weight-600 mt-3 card-title">
-                      Penghargan Zero Accident Gubernur Jawa Timur
-                    </h5>
-                    <p id="news3" class="desc-news fs-15 font-weight-normal">
-                      PT UTSG kembali menerima penghargaan Keselamatan 
-                      dan Kesehatan Kerja (K3) dari Gubernur Jawa Timur.
-                      Penyerahan penghargaan bersama 36 Perusahaan itu dilakukan secara langsung oleh 
-                      Bupati, Wakil Bupati dan Sekda, disaksikan oleh 
-                      Kepala Dinas Penanaman Modal Pelayanan Terpadu Satu Pintu dan 
-                      Tenaga Kerja (DPM PTSP dan Naker) Kabupaten Tuban. 
-                    </p>
-                    <a href="<?=base_url();?>user/detail_news/3" class="text-decoration-none">Read more...</a>                
-                  </div>
-                </div>
-              </div>
-              <div class="col-sm-3 mb-5 mb-sm-2">
-                <div class="card">
-                  <div class="position-relative image-hover">
-                    <img
-                      src="<?=base_url();?>asset\img\news\good-mining-practice.jpeg"
-                      class="img-fluid card-img-top rounded mx-auto d-block"
-                      alt="world-news"
-                      style="max-width: 300px; height: 210px"
-                    />
-                  </div>
-                  <div class="card-body">
-                    <h5 class="title-news font-weight-600 mt-3 card-title">
-                      PT UTSG Raih Dua Penghargaan Good Mining Practice dari Kementrian ESDM
-                    </h5>
-                    <p id="news4" class="desc-news fs-15 font-weight-normal" style="">
-                      PT United Tractors Semen Gresik (UTSG) sukses meraih dua penghargaan pada ajang 
-                      Penghargaan Penerapan Kaidah Teknik Pertambangan Mineral dan 
-                      Batubara yang Baik (Good Mining Practice Award-GMP) tahun 2021. 
-                      Penghargaan diberikan oleh Direktorat Jenderal (Dirjen) Mineral dan 
-                      Batubara (Minerba) Kementerian Energi dan Sumber Daya Mineral (ESDM) Republik Indonesia.
-                    </p>
-                    <a href="<?=base_url();?>user/detail_news/4" class="text-decoration-none">Read more...</a>                
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
-          <a href="<?=base_url();?>user/news/1" style="font-family:'Roboto', sans-serif; margin-top: 10px; text-transform: uppercase; font-weight: 500; font-size: 14px; letter-spacing: 1px; display: inline-block; padding: 10px 28px; border-radius: 20px; transition: 0.5s;color: #fff;background: #106eea;text-align: center;"> View All News </a>
-        </div>
-      </div>
-    </section>
-    <!-- End News Section -->
-
     <!-- ======= Team Section ======= -->
-    <section id="team" class="team section-bg">
+    <section id="team" class="team">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title" >
@@ -723,8 +479,251 @@
       </div>
     </section><!-- End Team Section -->
 
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <!-- <h2>Services</h2> -->
+          <h3>KESELAMATAN KESEHATAN, LINGKUNGAN, &<span> MANAJEMEN MUTU </span></h3>
+          <p>PENERAPAN SISTEM MANAGEMENT K3</p>
+        </div>
+
+        <div class="row justify-content-center">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box justify-content-center">
+              <img src="<?=base_url();?>asset/img/Enfirontment/1.jpg" style="max-width: 100%; max-height: 150px; object-fit: contain;" class="img-fluid mb-2" alt="">              
+              <h4><a href="">SMK3 PP 50 Tahun 2012</a></h4>
+              <p style="text-align: justify">Sertifikat penghargaan kepada PT United Tractors Semen Gresik dari Menteri Ketenagakerjaan R.I atas prestasi dalam penerapan Sistem Management K3 pada tanggal 30 Juli 2018 dengan predikat “Gold” </p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <img src="<?=base_url();?>asset/img/Enfirontment/2.jpg" style="max-width: 100%; max-height: 150px; object-fit: contain;" class="img-fluid mb-2" alt="">
+              <h4><a href="">ISO 14001 : 2015</a></h4>
+              <p style="text-align: justify">Sertifikat penghargaan kepada PT United Tractors Semen Gresik dari Empowering Assurance System dalam penerapan “The Provision of Limestone & Clay Mining Operation Services “ISO 14001 : 2015, on Maret 27 .2018</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <img src="<?=base_url();?>asset/img/Enfirontment/3.jpg" class="img-fluid mb-2"  style="max-width: 100%; max-height: 150px; object-fit: contain;" alt="">
+              <h4><a href="">OHSAS 18001 : 2007</a></h4>
+              <p style="text-align: justify">Sertifikat penghargaan kepada PT United Tractors Semen Gresik dari Empowering Assurance System dalam penerapan “The Provision of Limestone & Clay Mining Operation Services“ OHSA 18001 : 2007, on Maret 27 .2018</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <img src="<?=base_url();?>asset/img/Enfirontment/4.jpg" class="img-fluid mb-2" style="max-width: 100%; max-height: 150px; object-fit: contain;" alt="">
+              <h4><a href="">ASTRA GREEN COMPANY</a></h4>
+              <p style="text-align: justify">Sertifikat penghargaan kepada PT United Tractors Semen Gresik ASTRA sebagai penghargaan dalam penerapan “Environmental Health and Safety (EHS) dengan achivement level BLUE</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <img src="<?=base_url();?>asset/img/Enfirontment/5.jpg" class="img-fluid mb-2" style="max-width: 100%; max-height: 150px; object-fit: contain;" alt="">
+              <h4><a href="">QUALITY MANAGEMENT</a></h4>
+              <p style="text-align: justify">Sistem Manajemen Mutu menjadi prioritas utama kami dalam memenuhi kebutuhan pelanggan dan membangun hubungan yang kuat untuk dapat memberikan nilai tambah pada operasi pelanggan, tentunya dengan penerapan Sistem Manajemen Mutu PT UTSG</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
+
+    <!-- ======= Portfolio Section ======= -->
+    <section id="portfolio" class="featured-services section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Program</h2>
+          <h3>LINGKUNGAN & <span>KONTRIBUSI SOSIAL</span></h3>
+          <p> Program & Tanggung Jawab Sosial diperusahaan kami.</p>
+        </div>
+
+        <div class="row col-md-12" style="justify-content: center;">
+          
+          <div class="col-md-4 col-lg-4 d-flex align-items-stretch"  style="margin-bottom: 1px; margin-top:1%;">
+            <!-- <a href="<?=base_url();?>user/utsg_trees"> -->
+            <a href="#portfolio">
+              <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                <div class="icon col-lg-2 col-md-4 col-4 d-flex align-items-center"> <img style="max-width: 120px; max-height: 120px;" src="asset/img/sustainability/trees1.png"    class="img-fluid" alt=""> </div>
+                <h4 class="title"><a href=""></a></h4>
+                <p class="description">UTSG for Nature and Environment Sustainability (Bidang Lingkungan) </p>
+              </div>
+            </a>
+          </div>
+        
+          <div class="col-md-4 col-lg-4 d-flex align-items-stretch " style="margin-bottom: 1px; margin-top:1%;">
+            <a href="<?=base_url();?>user/utsg_future">
+              <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
+                <div class="icon col-lg-2 col-md-4 col-4 d-flex align-items-center"><img style="max-width: 120px; max-height: 120px;" src="asset/img/sustainability/Future.png" class="img-fluid" alt=""></div>
+                <h4 class="title"><a href=""></a></h4>
+                <p class="description">UTSG for Education and Bright Future (Bidang Pendidikan)</p>
+              </div>
+            </a>
+          </div>
+        
+          <div class="col-md-4 col-lg-4 d-flex align-items-stretch " style="margin-bottom: 1px; margin-top:1%;">
+            <a href="<?=base_url();?>user/utsg_care">
+              <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
+                <div class="icon col-lg-2 col-md-4 col-4 align-items-center"><img style="max-width: 120px; max-height: 120px;" src="asset/img/sustainability/Care.png" class="img-fluid" alt=""></div>
+                <h4 class="title"><a href=""></a></h4>
+                <p class="description">UTSG for Generating Opportunities and Wealth (Bidang Pemberdayaan Ekonomi Masyarakat)</p>
+              </div>
+            </a>
+          </div>
+          
+          <div class="col-md-4 col-lg-4 d-flex align-items-stretch "style="margin-bottom: 1px; margin-top:1%;">
+            <a href="<?=base_url();?>user/utsg_action">
+              <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                <div class="icon col-lg-2 col-md-4 col-4 d-flex align-items-center"> <img style="max-width: 150px; max-height: 150px;" src="asset/img/sustainability/Action.png" class="img-fluid" alt=""> </div>
+                <h4 class="title"><a href=""></a></h4>
+                <p class="description">UTSG for Community Health Responsibility (Bidang Kesehatan Masyarakat) </p>
+              </div>
+            </a>
+          </div>
+        
+          <div class="col-md-4 col-lg-4 d-flex align-items-stretch " style="margin-bottom: 1px; margin-top:1%;">
+            <!-- <a href="<?=base_url();?>user/utsg_growth"> -->
+            <a href="#portfolio">
+              <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
+                <div class="icon col-lg-2 col-md-4 col-4 d-flex align-items-center"><img style="max-width: 110px; max-height: 110px;" src="asset/img/sustainability/Growth.png" class="img-fluid" alt=""></div>
+                <h4 class="title"><a href=""></a></h4>
+                <p class="description">UTSG for Emergency Respone and Action (Bidang Tanggap Darurat)</p>
+              </div>
+            </a>
+          </div>
+
+        </div>
+      </div>
+    </section>
+    <!-- End Portfolio Section -->
+    
+    <!-- ======= News Section ======= -->
+    <section id="news" class="featured-services">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>News</h2>
+          <p>Berita terkini di lingkungan PT UTSG</p>
+        </div>
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="row">
+              <div class="col-sm-3 mb-5 mb-sm-2">
+                <div class="card">
+                  <div class="position-relative image-hover">
+                    <img
+                      src="<?=base_url();?>asset\img\news\zero-accident-2020kemenaker-ri.jpeg"
+                      class="img-fluid card-img-top rounded mx-auto d-block"
+                      alt="news-zero-accident-2020kemenaker-ri"
+                      style="max-width: 300px; height: 210px"
+                    />
+                  </div>
+                  <div class="card-body">
+                    <h5 class="title-news font-weight-600 mt-3 card-title">
+                      PT UTSG terima Penghargaan Zero Accident dari KEMENAKER RI
+                    </h5>
+                    <p id="news1" class="desc-news fs-15 font-weight-normal">
+                      PT UTSG kembali mendapatkan penghargaan di bidang keselamatan dan 
+                      kesehatan kerja (K3) yaitu, penghargaan nihil kecelakaan kerja (Zero Accident Award) dari 
+                      Kementrian Ketenagakerjaan (Kemenaker) RI.
+                    </p>
+                    <a href="<?=base_url();?>user/detail_news/1" class="text-decoration-none">Read more...</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-3 mb-5 mb-sm-2">
+                <div class="card">
+                  <div class="position-relative image-hover">
+                    <img
+                      src="<?=base_url();?>asset\img\news\pwi.png"
+                      class="img-fluid card-img-top rounded mx-auto d-block"
+                      alt="world-news"
+                      style="max-width: 300px; height: 210px"
+                    />
+                  </div>
+                  <div class="card-body">
+                    <h5 class="title-news font-weight-600 mt-3 card-title">
+                      Penghargaan Mitra Terbaik PWI
+                    </h5>
+                    <p id="news2" class="desc-news fs-15 font-weight-normal">
+                      PT UTSG dinobatkan menjadi penerima PWI Award 2021 untuk kategori penghargaan Mitra
+                      Terbaik. Penghargaan tersebut  langsung diserahkan oleh ketua PWI Kabupaten Tuban kepada 
+                      Section Head CSR & Humas UTSG.
+                    </p>
+                    <a href="<?=base_url();?>user/detail_news/2" class="text-decoration-none">Read more...</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-3 mb-5 mb-sm-2">
+                <div class="card">
+                  <div class="position-relative image-hover">
+                    <img
+                      src="<?=base_url();?>asset\img\news\zero-accidenta-2020-jatim.jpeg"
+                      class="img-fluid card-img-top rounded mx-auto d-block"
+                      alt="world-news"
+                      style="max-width: 300px; height: 210px"
+                    />
+                  </div>
+                  <div class="card-body">
+                    <h5 class="title-news font-weight-600 mt-3 card-title">
+                      Penghargan Zero Accident Gubernur Jawa Timur
+                    </h5>
+                    <p id="news3" class="desc-news fs-15 font-weight-normal">
+                      PT UTSG kembali menerima penghargaan Keselamatan 
+                      dan Kesehatan Kerja (K3) dari Gubernur Jawa Timur.
+                      Penyerahan penghargaan bersama 36 Perusahaan itu dilakukan secara langsung oleh 
+                      Bupati, Wakil Bupati dan Sekda, disaksikan oleh 
+                      Kepala Dinas Penanaman Modal Pelayanan Terpadu Satu Pintu dan 
+                      Tenaga Kerja (DPM PTSP dan Naker) Kabupaten Tuban. 
+                    </p>
+                    <a href="<?=base_url();?>user/detail_news/3" class="text-decoration-none">Read more...</a>                
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-3 mb-5 mb-sm-2">
+                <div class="card">
+                  <div class="position-relative image-hover">
+                    <img
+                      src="<?=base_url();?>asset\img\news\good-mining-practice.jpeg"
+                      class="img-fluid card-img-top rounded mx-auto d-block"
+                      alt="world-news"
+                      style="max-width: 300px; height: 210px"
+                    />
+                  </div>
+                  <div class="card-body">
+                    <h5 class="title-news font-weight-600 mt-3 card-title">
+                      PT UTSG Raih Dua Penghargaan Good Mining Practice dari Kementrian ESDM
+                    </h5>
+                    <p id="news4" class="desc-news fs-15 font-weight-normal" style="">
+                      PT United Tractors Semen Gresik (UTSG) sukses meraih dua penghargaan pada ajang 
+                      Penghargaan Penerapan Kaidah Teknik Pertambangan Mineral dan 
+                      Batubara yang Baik (Good Mining Practice Award-GMP) tahun 2021. 
+                      Penghargaan diberikan oleh Direktorat Jenderal (Dirjen) Mineral dan 
+                      Batubara (Minerba) Kementerian Energi dan Sumber Daya Mineral (ESDM) Republik Indonesia.
+                    </p>
+                    <a href="<?=base_url();?>user/detail_news/4" class="text-decoration-none">Read more...</a>                
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+          <a href="<?=base_url();?>user/news/1" style="font-family:'Roboto', sans-serif; margin-top: 10px; text-transform: uppercase; font-weight: 500; font-size: 14px; letter-spacing: 1px; display: inline-block; padding: 10px 28px; border-radius: 20px; transition: 0.5s;color: #fff;background: #106eea;text-align: center;"> View All News </a>
+        </div>
+      </div>
+    </section>
+    <!-- End News Section -->
+
     <!-- ======= Contact Section ======= -->
-    <section id="contact" class="contact">
+    <section id="contact" class="contact section-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
