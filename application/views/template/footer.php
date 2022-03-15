@@ -24,10 +24,11 @@
             <h4>Link Bantu</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#hero">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#about">About Us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#about">About</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#services">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#portfolio">Program</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#team">Our Teams</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#portfolio">Program</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#news">News</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#contact">Contact Us</a></li>
             </ul>
           </div>
