@@ -425,7 +425,7 @@
 
         <div class="section-title">
           <!-- <h2>Services</h2> -->
-          <h3>KESELAMATAN KESEHATAN, LINGKUNGAN, &<span> MANAJEMEN MUTU </span></h3>
+          <h3><span>MANAGEMENT SYSTEM</span></h3>
           <p>PENERAPAN SISTEM MANAGEMENT K3</p>
         </div>
 
@@ -440,7 +440,7 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
-              <img src="<?=base_url();?>asset/img/Enfirontment/2.jpg" style="max-width: 100%; max-height: 150px; object-fit: contain;" class="img-fluid mb-2" alt="">
+              <img src="<?=base_url();?>asset/img/Enfirontment/ISO_14001_2015.jpg" style="max-width: 100%; max-height: 150px; object-fit: contain;" class="img-fluid mb-2" alt="">
               <h4><a href="">ISO 14001 : 2015</a></h4>
               <p style="text-align: justify">Sertifikat penghargaan kepada PT United Tractors Semen Gresik dari Empowering Assurance System dalam penerapan “The Provision of Limestone & Clay Mining Operation Services “ISO 14001 : 2015, on Maret 27 .2018</p>
             </div>
@@ -448,9 +448,9 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
-              <img src="<?=base_url();?>asset/img/Enfirontment/3.jpg" class="img-fluid mb-2"  style="max-width: 100%; max-height: 150px; object-fit: contain;" alt="">
-              <h4><a href="">OHSAS 18001 : 2007</a></h4>
-              <p style="text-align: justify">Sertifikat penghargaan kepada PT United Tractors Semen Gresik dari Empowering Assurance System dalam penerapan “The Provision of Limestone & Clay Mining Operation Services“ OHSA 18001 : 2007, on Maret 27 .2018</p>
+              <img src="<?=base_url();?>asset/img/Enfirontment/ISO_45001_2018.jpg" class="img-fluid mb-2"  style="max-width: 100%; max-height: 150px; object-fit: contain;" alt="">
+              <h4><a href="">ISO 45001 : 2018</a></h4>
+              <p style="text-align: justify">Sertifikat penghargaan kepada PT United Tractors Semen Gresik dari Empowering Assurance System dalam penerapan “The Provision of Limestone & Clay Mining Operation Services“ ISO 45001 : 2018, on Aug 27 .2021</p>
             </div>
           </div>
 
@@ -464,8 +464,8 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
-              <img src="<?=base_url();?>asset/img/Enfirontment/5.jpg" class="img-fluid mb-2" style="max-width: 100%; max-height: 150px; object-fit: contain;" alt="">
-              <h4><a href="">QUALITY MANAGEMENT</a></h4>
+              <img src="<?=base_url();?>asset/img/Enfirontment/QUALITY_MANAGEMENT.jpg" class="img-fluid mb-2" style="max-width: 100%; max-height: 150px; object-fit: contain;" alt="">
+              <h4><a href="">ISO 9001 : 2015</a></h4>
               <p style="text-align: justify">Sistem Manajemen Mutu menjadi prioritas utama kami dalam memenuhi kebutuhan pelanggan dan membangun hubungan yang kuat untuk dapat memberikan nilai tambah pada operasi pelanggan, tentunya dengan penerapan Sistem Manajemen Mutu PT UTSG</p>
             </div>
           </div>
