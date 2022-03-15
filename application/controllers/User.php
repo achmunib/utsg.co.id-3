@@ -45,7 +45,7 @@ class User extends CI_Controller
     $this->load->view('template/topbar');
     $this->load->view('portfolio/header');
     $this->load->view('program/trees', $data);
-    $this->load->view('template/footer');
+    $this->load->view('portfolio/footer');
   }
 
   public function utsg_future()
@@ -81,7 +81,7 @@ class User extends CI_Controller
     $this->load->view('template/topbar');
     $this->load->view('portfolio/header');
     $this->load->view('program/growth', $data);
-    $this->load->view('template/footer');
+    $this->load->view('portfolio/footer');
   }
 
   public function news($id_news)

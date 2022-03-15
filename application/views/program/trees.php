@@ -4,7 +4,7 @@
     <div class="container">
 
       <div class="d-flex justify-content-between align-items-center">
-        <h2>Program Details</h2>
+        <h2><b>Program Details</b></h2>
         <ol>
           <li><a href="<?=base_url();?>">Home</a></li>
           <li><a href="<?=base_url();?>user/utsg_trees">UTSG Trees</a></li>
@@ -17,37 +17,61 @@
 
   <!-- ======= Program Details Section ======= -->
   <section id="portfolio-details" class="portfolio-details light">
-    <div class="container py-2">    
-      <div class="row">
-        <div class="col-lg-4" data-aos="fade-right" data-aos-delay="100" >
-          <img style="max-width:80%; max-height: 80%;" src="<?=base_url();?>asset/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="utsg-trees-img">
-        </div>
-        <div class="col-lg-7 content d-flex flex-column"  data-aos="fade-up" data-aos-delay="100">
-          <h3>Penghargan Zero Accident Gubernur Jawa Timur</h3><br>
-          <p style="text-align: justify">
-            <span style="text-indent: 50px">
-              PT United Tractors Semen Gresik (UTSG) kembali menerima penghargaan Keselamatan dan Kesehatan Kerja (K3) dari Gubernur Jawa Timur.
-            </span><br>
-            <span style="text-indent: 50px">
-              Penyerahan penghargaan bersama 36 Perusahaan itu dilakukan secara langsung oleh Bupati, Wakil Bupati dan Sekda, disaksikan oleh Kepala Dinas Penanaman Modal Pelayanan Terpadu Satu Pintu dan Tenaga Kerja (DPM PTSP dan Naker) Kabupaten Tuban.
-            </span>
-          </p>
-          <!-- <p style="text-indent: 50px">
-          </p>
-          <p style="text-indent: 50px">
-            Sebanyak 40 penghargaan diserahkan kepada perusahaan di Kabupaten Tuban, diantaranya 32 Penghargaan Zero Accident Award (ZZA) atau nihil angka kecelakaan kerja, kemudian penghargaan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3) kepada 6 Perusahaan, dan Penghargaan Upaya Pencegahan HIV/AIDS kepada 2 Perusahaan.
-          </p>
-          <p style="text-indent: 50px">
-            Penghargaan Zero Accident ini merupakan hasil upaya nyata dari Manajemen dan seluruh pekerja, yang mana mereka secara bersama-sama menjalankan aturan K3 yang ditetapkan melalui peraturan perundang-undangan yang berlaku serta tertuang didalam kebijakan dan aturan K3 di UTSG sendiri.
-          </p>
-          <p style="text-indent: 50px">
-            Harapan manjemen atas diraihnya penghargaan Zero accident ini tentunya, Zerp Accident bukan hanya menjadi kalimat yang selalu tersemat dalam kebijakan perusahaan, melainkan spirit yang selalu tercermin di setiap aktivitas kegiatan seluruh pekerja.
-          </p> -->
-          <br>
-
+    <div class="container py-2">
+      <div class="card mh-100">
+        <div class="row">
+          <div class="col-md-5 d-flex align-items-center" data-aos="fade-right" data-aos-delay="100">
+            <!-- <figure class="figure">
+              <img src="<?=base_url();?>asset/img/program/UTSG-launching-PRANARAKSA.jpeg" class="img-fluid" alt="utsg-trees-img">
+              <figcaption class="figure-caption text-center fst-italic">
+                PT UTSG launching PRANARAKSA
+                <br>15 Maret 2022  
+              </figcaption>
+            </figure> -->
+            <div id="carouselExampleCaptions" class="carousel slide">
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <img src="<?=base_url();?>asset/img/program/UTSG-launching-PRANARAKSA.jpeg" class="d-block w-100" alt="...">
+                  <div class="carousel-caption d-none d-md-block">
+                    <p class="p-custom">PT UTSG launching Program PRANARAKSA</p>
+                  </div>
+                </div>
+                <div class="carousel-item">
+                  <img src="<?=base_url();?>asset/img/program/bibit-buah-tim-LIPI-Cibinong.jpeg" class="d-block w-100" alt="...">
+                  <div class="carousel-caption d-none d-md-block">
+                    <p class="p-custom">Pemilihan bibit buah langkah bersama tim LIPI Cibinong</p>
+                  </div>
+                </div>
+                <div class="carousel-item">
+                  <img src="<?=base_url();?>asset/img/program/Penanaman-Pohon-Buah-Langkah-Nusantara.jpeg" class="d-block w-100" alt="...">
+                  <div class="carousel-caption d-none d-md-block">
+                    <p class="p-custom">Penanaman Pohon Buah Langkah Nusantara</p>
+                  </div>
+                </div>
+              </div>
+              <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+              </button>
+              <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+              </button>
+            </div>
+          </div>
+          <div class="col-lg-7 content d-flex flex-column" data-aos="fade-up" data-aos-delay="100" style="text-align: justify">
+            <div class="card-block px-6">
+              <h4 class="card-title">Program UTSG Trees</h4>
+              <p class="card-text" style="text-indent: 50px">
+                Merupakan bagian dari salah satu pilar CSR yang berfokus pada konservasi flora dan fauna nusantara.
+              </p>
+              <p class="card-text" style="text-indent: 50px">
+                Kali ini UTSG bekerja sama dengan ASTRA dan LIPI untuk fokus terhadap program konservasi keanekaragaman pohon berbuah langkah nusantara (PRANARAKSA), sekurangnya ada 24 varietas pohon buah langkah dengan jumlah total pohon 120 yang sudah didatangkan, 37 pohon yang sudah ditanam di lahan UTSG dan 10 pohon ditanam dilahan reklamasi SIG. Sedangkan untuk sisanya akan dijadikan bibit sebagai lanjutan Program Nursery PRANARAKSA UTSG kedepannya.
+              </p>
+            </div>
+          </div>
         </div>
       </div>
-      <br>
     </div>
   </section><!-- End Portfolio Details Section -->
 </main><!-- End #main -->

@@ -1816,3 +1816,9 @@ section {
   padding: 1px 10px 1px 10px;
   border-radius: 5px;
 }
+.p-custom{
+  background-color: #000000;
+  color: white;
+  padding: 1px 10px 1px 10px;
+  border-radius: 5px;
+}
