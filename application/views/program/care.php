@@ -18,7 +18,7 @@
   <!-- ======= Program Details Section ======= -->
   <section id="portfolio-details" class="portfolio-details light">
     <div class="container py-2">
-      <div class="card">
+      <div class="card" style="background-color: #F1F6FE">
         <div class="row">
           <div class="col-md-5 d-flex align-items-center" data-aos="fade-right" data-aos-delay="100" >
             <figure class="figure">
@@ -50,7 +50,7 @@
       </div>
     </div>
     <div class="container py-2">
-      <div class="card">
+      <div class="card" style="background-color: #F1F6FE">
         <div class="row">
           <div class="col-lg-7 content d-flex flex-column"  data-aos="fade-up" data-aos-delay="100" style="text-align: justify">
             <div class="card-block px-6">

@@ -18,33 +18,26 @@
   <!-- ======= Program Details Section ======= -->
   <section id="portfolio-details" class="portfolio-details light">
     <div class="container py-2">
-      <div class="card mh-100">
+      <div class="card" style="background-color: #F1F6FE">
         <div class="row">
           <div class="col-md-5 d-flex align-items-center" data-aos="fade-right" data-aos-delay="100">
-            <!-- <figure class="figure">
-              <img src="<?=base_url();?>asset/img/program/UTSG-launching-PRANARAKSA.jpeg" class="img-fluid" alt="utsg-trees-img">
-              <figcaption class="figure-caption text-center fst-italic">
-                PT UTSG launching PRANARAKSA
-                <br>15 Maret 2022  
-              </figcaption>
-            </figure> -->
             <div id="carouselExampleCaptions" class="carousel slide">
               <div class="carousel-inner">
                 <div class="carousel-item active">
                   <img src="<?=base_url();?>asset/img/program/UTSG-launching-PRANARAKSA.jpeg" class="d-block w-100" alt="...">
-                  <div class="carousel-caption d-none d-md-block">
+                  <div class="pb-1 carousel-caption d-none d-md-block">
                     <p class="p-custom">PT UTSG launching Program PRANARAKSA</p>
                   </div>
                 </div>
                 <div class="carousel-item">
                   <img src="<?=base_url();?>asset/img/program/bibit-buah-tim-LIPI-Cibinong.jpeg" class="d-block w-100" alt="...">
-                  <div class="carousel-caption d-none d-md-block">
+                  <div class="pb-1 carousel-caption d-none d-md-block">
                     <p class="p-custom">Pemilihan bibit buah langkah bersama tim LIPI Cibinong</p>
                   </div>
                 </div>
                 <div class="carousel-item">
                   <img src="<?=base_url();?>asset/img/program/Penanaman-Pohon-Buah-Langkah-Nusantara.jpeg" class="d-block w-100" alt="...">
-                  <div class="carousel-caption d-none d-md-block">
+                  <div class="pb-1 carousel-caption d-none d-md-block">
                     <p class="p-custom">Penanaman Pohon Buah Langkah Nusantara</p>
                   </div>
                 </div>

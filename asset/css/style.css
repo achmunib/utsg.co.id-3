@@ -1705,6 +1705,11 @@ section {
   text-align: center;
 }
 
+.single-news .sn-content p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 .single-news .sn-related {
   margin-bottom: 45px;
 }
