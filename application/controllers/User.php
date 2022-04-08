@@ -100,7 +100,7 @@ class User extends CI_Controller
     if ($id_news == 3) {
       $main_view = $this->load->view('news/pages/3', $data);
     }
-    $primary_view;
+    
     $this->load->view('portfolio/footer');
   }
 

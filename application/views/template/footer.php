@@ -86,6 +86,8 @@
   <script src="<?=base_url();?>vendor/swiper/swiper-bundle.min.js"></script>
   <script src="<?=base_url();?>vendor/waypoints/noframework.waypoints.js"></script>
   <script src="<?=base_url();?>vendor/php-email-form/validate.js"></script>
+  <script src="https://pagination.js.org/dist/2.1.5/pagination.js"></script>
+  <script src="https://pagination.js.org/dist/2.1.5/pagination.min.js"></script>
 
   <!-- Template Main JS File -->
   <script src="<?=base_url();?>asset/js/main.js"></script>

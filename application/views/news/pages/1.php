@@ -19,6 +19,9 @@
   <!-- ======= ALl News Section ======= -->
   <section id="portfolio-details" class="portfolio-details light">
     <div class="container">
+      <div id="data-container"></div>
+      <div id="pagination-container"></div>
+    
       <div class="col-lg-12">
         <div class="card" data-aos="fade-up" style="background-color: #F1F6FE;">
           <div class="card-body">
