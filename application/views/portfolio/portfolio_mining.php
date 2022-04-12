@@ -17,14 +17,14 @@
   <!-- ======= Portfolio Details Section ======= -->
   <section id="portfolio-details" class="portfolio-details light">
     <div class="container py-2">    
-      <article class="postcard light blue">
+      <article class="postcard light orange">
         <a class="postcard__img_link glightbox portfolio-lightbox" href="<?=base_url();?>asset/img/portfolio/sig-tuban-1.jpg">
           <img class="postcard__img" src="<?=base_url();?>asset/img/portfolio/thumbnail-mining-1.jpg" alt="Image Title" />
         </a>
         <a href="<?=base_url();?>asset/img/portfolio/sig-tuban-2.jpg" class="glightbox portfolio-lightbox"></a>
         <a href="<?=base_url();?>asset/img/portfolio/sig-tuban-3.jpg" class="glightbox portfolio-lightbox"></a>
         <div class="postcard__text t-dark">
-          <h1 class="postcard__title blue">Jasa Penambangan Quarry Tuban</h1>
+          <h1 class="postcard__title orange">Jasa Penambangan Quarry Tuban</h1>
           <div class="postcard__bar"></div>
           <div class="postcard__preview-txt">
             <table class="table-responsive table-sm">
@@ -64,7 +64,7 @@
           </div>
         </div>
       </article>
-      <article class="postcard light blue">
+      <article class="postcard light orange">
         <a class="postcard__img_link glightbox portfolio-lightbox" href="<?=base_url();?>asset/img/portfolio/sig-rembang-1.jpg">
           <img class="postcard__img" src="<?=base_url();?>asset/img/portfolio/thumbnail-mining-2.jpg" alt="Image Title" />
         </a>
@@ -73,7 +73,7 @@
         <a href="<?=base_url();?>asset/img/portfolio/sig-rembang-4.jpg" class="glightbox portfolio-lightbox"></a>
         <a href="<?=base_url();?>asset/img/portfolio/sig-rembang-5.jpg" class="glightbox portfolio-lightbox"></a>
         <div class="postcard__text t-dark">
-          <h1 class="postcard__title blue">Jasa Penambangan Quarry Rembang</h1>
+          <h1 class="postcard__title orange">Jasa Penambangan Quarry Rembang</h1>
           <div class="postcard__bar"></div>
           <div class="postcard__preview-txt">
             <table class="table-responsive table-sm">
@@ -113,13 +113,13 @@
           </div>
         </div>
       </article>
-      <article class="postcard light blue">
+      <article class="postcard light orange">
         <a class="postcard__img_link glightbox portfolio-lightbox" href="<?=base_url();?>asset/img/portfolio/sig-pelawi-1.jpg">
           <img class="postcard__img" src="<?=base_url();?>asset/img/portfolio/thumbnail-mining-3.jpg" alt="Image Title" />
         </a>
         <a href="<?=base_url();?>asset/img/portfolio/sig-pelawi-2.jpg" class="glightbox portfolio-lightbox"></a>
         <div class="postcard__text t-dark">
-          <h1 class="postcard__title blue">Jasa Penambangan Quarry Pelawi</h1>
+          <h1 class="postcard__title orange">Jasa Penambangan Quarry Pelawi</h1>
           <div class="postcard__bar"></div>
           <div class="postcard__preview-txt">
             <table class="table-responsive table-sm">
@@ -159,14 +159,14 @@
           </div>
         </div>
       </article>
-      <article class="postcard light blue">
+      <article class="postcard light orange">
         <a class="postcard__img_link glightbox portfolio-lightbox" href="<?=base_url();?>asset/img/portfolio/sig-pangkep-1.jpg">
           <img class="postcard__img" src="<?=base_url();?>asset/img/portfolio/thumbnail-mining-4.jpg" alt="Image Title" />
         </a>
         <a href="<?=base_url();?>asset/img/portfolio/sig-pangkep-2.jpg" class="glightbox portfolio-lightbox"></a>
         <a href="<?=base_url();?>asset/img/portfolio/sig-pangkep-3.jpg" class="glightbox portfolio-lightbox"></a>
         <div class="postcard__text t-dark">
-          <h1 class="postcard__title blue">Jasa Penambangan Quarry Pangkep</h1>
+          <h1 class="postcard__title orange">Jasa Penambangan Quarry Pangkep</h1>
           <div class="postcard__bar"></div>
           <div class="postcard__preview-txt">
             <table class="table-responsive table-sm">
@@ -206,13 +206,13 @@
           </div>
         </div>
       </article>
-      <article class="postcard light blue">
+      <article class="postcard light orange">
         <a class="postcard__img_link glightbox portfolio-lightbox" href="<?=base_url();?>asset/img/portfolio/sig-padang-1.jpg">
           <img class="postcard__img" src="<?=base_url();?>asset/img/portfolio/thumbnail-mining-5.jpg" alt="Image Title" />
         </a>
         <a href="<?=base_url();?>asset/img/portfolio/sig-padang-2.jpg" class="glightbox portfolio-lightbox"></a>
         <div class="postcard__text t-dark">
-          <h1 class="postcard__title blue">Jasa Penambangan Quarry Padang</h1>
+          <h1 class="postcard__title orange">Jasa Penambangan Quarry Padang</h1>
           <div class="postcard__bar"></div>
           <div class="postcard__preview-txt">
             <table class="table-responsive table-sm">

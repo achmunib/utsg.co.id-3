@@ -17,10 +17,10 @@
   </section><!-- Breadcrumbs Section -->
 
   <!-- ======= ALl News Section ======= -->
-  <section id="portfolio-details" class="portfolio-details light">
+  <section id="portfolio-details" class="portfolio-details light news">
     <div class="container">
       <div class="col-lg-12">
-        <div class="card" data-aos="fade-up" style="background-color: #F1F6FE;">
+        <div class="card" data-aos="fade-up" style="background-color: #FFFAF8;">
           <div class="card-body">
             <div class="row">
               <div class="col-lg-8">
@@ -110,7 +110,7 @@
                 </div>
               </div>
               <div class="col-lg-4">
-                <h2 class="mb-4 font-weight-600">
+                <h2 class="mb-4 font-weight-600 latest-big-news">
                   Latest news
                 </h2>
                 <div class="row">
@@ -189,7 +189,7 @@
                   </div>
                 </div>
                 <div class="trending">
-                  <h2 class="mb-4 font-weight-600">
+                  <h2 class="mb-4 font-weight-600 latest-big-news">
                     Big News
                   </h2>
                   <div class="mb-4">

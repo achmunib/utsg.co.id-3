@@ -44,7 +44,7 @@ a, a:hover {
 }
 
 .postcard.light {
-  background-color: #e1e5ea;
+  background-color: #FFFAF8;
 }
 
 .postcard .t-dark {
@@ -243,7 +243,7 @@ a, a:hover {
     background: #18151f;
   }
   .postcard.light .postcard__text:before {
-    background: #e1e5ea;
+    background: #FFFAF8;
   }
 }
 
@@ -330,6 +330,26 @@ a, a:hover {
   background-image: linear-gradient(30deg, rgba(189, 187, 73, 0.1), transparent 50%);
 }
 
+.postcard .postcard__tagbox .orange.play:hover {
+  background: #EEC545;
+}
+
+.orange .postcard__title:hover {
+  color: #EEC545;
+}
+
+.orange .postcard__bar {
+  background-color: #EEC545;
+}
+
+.orange::before {
+  background-image: linear-gradient(-30deg, rgba(189, 154, 0, 0.1), transparent 50%);
+}
+
+.orange:nth-child(2n)::before {
+  background-image: linear-gradient(30deg, rgba(189, 154, 0, 0.1), transparent 50%);
+}
+
 @media screen and (min-width: 769px) {
   .green::before {
     background-image: linear-gradient(-80deg, rgba(121, 221, 9, 0.1), transparent 50%);
@@ -354,6 +374,12 @@ a, a:hover {
   }
   .yellow:nth-child(2n)::before {
     background-image: linear-gradient(80deg, rgba(189, 187, 73, 0.1), transparent 50%);
+  }
+  .orange::before {
+    background-image: linear-gradient(-80deg, rgba(189, 168, 73, 0.1), transparent 50%);
+  }
+  .orange:nth-child(2n)::before {
+    background-image: linear-gradient(80deg, rgba(189, 168, 73, 0.1), transparent 50%);
   }
 }
 /*# sourceMappingURL=card.css.map */

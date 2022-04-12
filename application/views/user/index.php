@@ -6,36 +6,39 @@
 
       <div class="d-flex">
         <a href="#about" class="btn-get-started scrollto">Start</a>
-        <a href="https://www.youtube.com/watch?v=BK25q9F9-MY" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Video Company Profile</span></a>
+        <a href="https://www.youtube.com/watch?v=BK25q9F9-MY" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Company Profile</span></a>
       </div>
     </div>
   </section><!-- End Hero -->
 
   <main id="main">
-    <!-- ======= About Section ======= -->
-    <section id="about" class="about section-bg">
+
+    <section id="about" class="about">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>ABOUT</h2>
-          <h3>Tentang <span> UTSG </span></h3>
-          <p>PT UTSG adalah perusahaan yang berkomitmen untuk menjadi perusahaan pertambangan terbesar di Indonesia dengan mengutamakan kualitas.</p>
+          <h2>General Information</h2>
+          <h3>Profile <span> UTSG </span></h3>
         </div>
 
         <div class="row">
-          <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">
-            <img style="max-width: 110%; max-height: 100%; margin-top: -40px; margin-bottom: -60px;" src="<?=base_url();?>asset/img/scets/Office.png" class="img-fluid" alt="">
+          <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100" id="about-img">
+            <img style="max-width: 90%; max-height: 90%; ; margin-bottom: -40px;" src="<?=base_url();?>asset/img/scets/Office.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column" style="margin-top:10px;" data-aos="fade-up" data-aos-delay="100">
             <h4>PT UTSG didirikan pada tanggal 15 Oktober 1992</h4>
             <p class="fst-italic" style="text-align: justify">
-              PT UTSG merupakan anak perusahaan dari <b> PT Semen Indonesia Persero Tbk </b> yang merupakan produsen semen dengan Pangsa Pasar terbesar di Indonesia, dan <b> PT United Tractors Tbk </b> sebagai distributor alat berat, kontraktor pertambangan, pertambangan batubara & emas serta sebagai penyedia energi listrik terkemuka di Indonesia.
+               &emsp; dengan nama PT. Usaha Tambang Selo Giri. Pada tanggal 04 Desember 1992, perusahaan berubah nama menjadi PT. United Tractors Semen Gresik. PT. UTSG merupakan anak perusahaan dari dua perusahaan terbuka yang terdepan dibidangnya, yaitu <b> PT. United Tractors Tbk. </b> Sebagai distributor alat berat terkemuka dan berpengalaman dibidang pertambangan di Indonesia dan <b> PT. Semen Indonesia (Persero) Tbk. </b> yang merupakan produsen semen dengan Market Share terbesar di Indonesia.
             </p>
-            <ul style="margin-top:-20px" >
-              <img src="<?=base_url();?>asset/img/abouth.png" style="max-width: 200px; max-height: 200px; margin-top: 20px; margin-bottom: 20px; text-align: center;" class="img-fluid" alt="">
+            <p class="fst-italic" style="text-align: justify">
+               &emsp; Dengan persentase kepemilikan 55% dimiliki PT. Semen Indonesia (Persero) Tbk. dan 45% PT. United Tractors Tbk., saat ini PT. UTSG berkedudukan di Desa Sumberarum, Kecamatan Kerek, Kabupaten Tuban, Jawa Timur
+            </p>
+
+            <ul style="margin-top:-10px;">
+              <img src="<?=base_url();?>asset/img/saham.png" style="max-width: 300px; max-height: 300px; margin-top: 30px; margin-bottom: 30px; text-align: center; margin-left: 50px;" class="img-fluid" alt="">
             </ul>
             <p style="margin-top:-20px; text-align: justify">
-              PT UTSG berkomitmen untuk menjadi perusahaan jasa pertambangan quarry terbesar di Indonesia dengan mengutamakan kualitas dan telah melalui berbagai tantangan, selalu berkomitmen untuk pengembangan berkelanjutan dan peningkatan nilai pelanggan.
+               &emsp;Per tanggal 31 Desember 2021, pemegang saham PT. UTSG adalah 55% PT. Semen Indonesia (Persero) Tbk. Dan 45% PT. United Tractors Tbk.
             </p>
           </div>
         </div>
@@ -44,79 +47,37 @@
     </section>
     <!-- End About Section -->
 
-    <!-- ======= Testimonials Section ======= -->
-    <section id="" class="testimonials">
-      <div class="container" data-aos="zoom-in">
-
-        <div class="" data-aos="fade-up" data-aos-delay="0">
-          <div class="swiper-wrapper">
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="<?=base_url();?>asset/img/utsg2.png" class="testimonial-img" alt="">
-                <h3 style="margin-top: 30px;">VISI</h3>
-                <h2>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Menjadi Mitra Bisnis Terkemuka di Quarry, Pertambangan, Konstruksi, & Energi.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </h2>
-              </div>
-            </div><!-- End testimonial item -->
-
-          </div>
-          <div class="swiper-pagination"></div>
-        </div>
-
-      </div>
-    </section><!-- End Testimonials Section -->
-
-    <!-- ======= Frequently Asked Questions Section ======= -->
-    <section id="faq" class="faq section-bg">
+    <section id="" class="faq section-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>UTSG</h2>
-          <h3>MISI</h3>
+          <h2>Visi, Misi, & Budaya Perusahaan</h2>
+          <h3>Visi <span> & Misi </span></h3>
         </div>
 
         <div class="row justify-content-center">
           <div class="col-xl-12">
-            <ul class="faq-list">
-
-              <li style="text-align:center;">
-                <div data-bs-toggle="collapse" class="collapsed question" href="">Menciptakan keunggulan yang berkelanjutan untuk memberikan nilai tambah bagi induk usaha serta para pemangku kepentingan</div>
-              </li>
-              <li style="text-align:center;">
-                <div data-bs-toggle="collapse" href="" class="collapsed question">Menerapkan sistem kerja terbaik yang efektif dan efisien untuk mewujudkan tujuan pelanggan.</div>
-              </li>
-              <li style="text-align:center;">
-                <div data-bs-toggle="collapse" href="" class="collapsed question">Mengembangkan karyawan agar memiliki tingkat kemampuan yang sesuai dengan kebutuhan & tantangan organisasi.</div>
-              </li>
-              <li style="text-align:center;">
-                <div data-bs-toggle="collapse" href="" class="collapsed question">Berkontribusi langsung terhadap peningkatan kesejahteraan karyawan dan masyarakat sekitar.</div>
-              </li>
-              <li style="text-align:center;">
-                <div data-bs-toggle="collapse" href="" class="collapsed question">Secara konsisten menjalankan Tata Kelola Perusahaan yang baik, Program SMK3 dan CSR agar tercapai keharmonisan di lingkungan perusahaan.</div>
-              </li>
-
-            </ul>
+            <div class="col-lg-12" data-aos="fade-right" data-aos-delay="100" >
+              <img style="max-width:100%; max-height: 100%;" src="<?=base_url();?>asset/img/visi-misi.png" class="img-fluid" alt="">
+            </div>
           </div>
         </div>
 
       </div>
     </section>
 
+
     <section id="" class="section">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h3>CORE <span> VALUE </span></h3>
+          <h3>BUDAYA <span> PERUSAHAAN </span></h3>
         </div>
 
         <div class="row justify-content-center">
           <div class="col-xl-12">
             <div class="col-lg-12" data-aos="fade-right" data-aos-delay="100" >
-              <img style="max-width:100%; max-height: 100%;" src="<?=base_url();?>asset/img/akhlak.png" class="img-fluid" alt="">
+              <img style="max-width:100%; max-height: 100%;" src="<?=base_url();?>asset/img/Aklak2.png" class="img-fluid" alt="">
             </div>
           </div>
         </div>
@@ -130,18 +91,21 @@
 
         <div class="section-title">
           <h2>SERVICES</h2>
-          <h3>Lini <span>Bisnis </span></h3>
+          <h3>Bidang Usaha <span> & Produk/Jasa  </span></h3>
+          <p>Bidang usaha perseroan telah menyesuaikan KBLI (Klasifikasi Baku Lapangan Usaha Indonesia) 2017 dan sistem (OSS ) Online Single Submission, yang tertuang dalam Anggaran Dasar Perseroan No. 22 tanggal 12 Juni 2019 Pasal 3 Ayat 2. Berikut ini bidang usaha yang pernah dan sedang dikerjakan perseroan sampai dengan tahun 2021</p>
         </div>
+        
+        <div class="hr2"></div>
 
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100" >
             <img style="max-width:80%; max-height: 80%; margin-left: 100px;" src="<?=base_url();?>asset/img/scets/Padang2.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 content d-flex flex-column"  data-aos="fade-up" data-aos-delay="100">
-            <h5 style="margin-top: 10px;">MINE SERVICE</h6>
-            <h3 style="color:#0d6efd;">BIDANG JASA PERTAMBANGAN</h3>
+            <h6 style="margin-top: 10px;"><b>MINE SERVICE</b></h6>
+            <h3 style="color:#EEC545;">BIDANG JASA PERTAMBANGAN</h3>
             <p class="fst-italic">
-              Kualifikasi Bidang Usaha Jasa Pertambangan PT.UTSG meliputi kegiatan : 
+              &emsp; Kualifikasi Bidang Usaha Jasa Pertambangan PT.UTSG meliputi kegiatan : 
               Land Clearing, Stripping, Drilling, Blasting, Breaking, Loading, Hauling (Reguler), &
               Surface Miner/Milling (Non Reguler) 
             </p>
@@ -151,19 +115,20 @@
               <br>2. Perencanaan dan pelaksanaan dibidang Penambangan (pengupasan, pemuatan, pemindahan, pemberaian/pembongkaran dan pengangkutan batuan/tanah penutup).
               <br><b>Di lingkungan proyek-proyek pertambangan mineral & batubara</b> 
               <br>
-              <a href="<?=base_url();?>user/portfolio_mining" style="font-family:'Roboto', sans-serif; margin-top: 10px; text-transform: uppercase; font-weight: 500; font-size: 14px; letter-spacing: 1px; display: inline-block; padding: 10px 28px; border-radius: 20px; transition: 0.5s;color: #fff;background: #106eea;"> Pengalaman Project </a>
+              <a href="<?=base_url();?>user/portfolio_mining" class="big-btn"> Pengalaman Project </a>
             </p>
           </div>
         </div>
         <br>
+        <div class="hr2"></div>
 
         <div class="row">
           
           <div class="col-lg-6 content d-flex flex-column"  data-aos="fade-up" data-aos-delay="100">
-            <h5 style="margin-top: 10px;">CONSTRUCTION SERVICE</h6>
-            <h3 style="color:#0d6efd;">BIDANG JASA KONSTRUKSI</h3>
+            <h6 style="margin-top: 10px;"><b>CONSTRUCTION SERVICE</b></h6>
+            <h3 style="color:#EEC545;">BIDANG JASA KONSTRUKSI</h3>
             <p class="fst-italic">
-              Kualifikasi Bidang Usaha Jasa Konstruksi PT UTSG merupakan Bidang Jasa Kontraktor Pelaksana Spesialis sesuai dengan lampiran IUJK dengan LEVEL KUALIFIKASI B1 untuk Pekerjaan Tanah Galian dan Timbunan.  
+              &emsp;Kualifikasi Bidang Usaha Jasa Konstruksi PT UTSG merupakan Bidang Jasa Kontraktor Pelaksana Spesialis sesuai dengan lampiran IUJK dengan LEVEL KUALIFIKASI B1 untuk Pekerjaan Tanah Galian dan Timbunan.  
             </p>
             <br>
 
@@ -173,23 +138,24 @@
               2. <b>Metode Peledakan</b> (Blasting).
 
              <br>
-             <a href="<?=base_url();?>/user/portfolio_construction" style="font-family:'Roboto', sans-serif; margin-top: 10px; text-transform: uppercase; font-weight: 500; font-size: 14px; letter-spacing: 1px; display: inline-block; padding: 10px 28px; border-radius: 20px; transition: 0.5s;color: #fff;background: #106eea;"> Pengalaman Project </a>
+             <a href="<?=base_url();?>/user/portfolio_construction" class="big-btn"> Pengalaman Project </a>
             </p>
           </div>
           <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100" >
             <img style="max-width:80%; max-height: 80%; margin-left: 100px;" src="<?=base_url();?>asset/img/scets/Rembang2.png" class="img-fluid" alt="">
           </div>
         </div>
+        <div class="hr2"></div>
 
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100" >
             <img style="max-width:80%; max-height: 80%; margin-left: 100px;" src="<?=base_url();?>asset/img/scets/Reboisasi.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 content d-flex flex-column"  data-aos="fade-up" data-aos-delay="100">
-            <h5 style="margin-top: 10px;">RENTAL SERVICE</h6>
-            <h3 style="color:#0d6efd;">BIDANG JASA SEWA</h3>
+            <h6 style="margin-top: 10px;"><b>RENTAL SERVICE</b></h6>
+            <h3 style="color:#EEC545;">BIDANG JASA SEWA</h3>
             <p class="fst-italic">
-              Kualifikasi Jasa Sewa PT UTSG merupakan bidang penyewaan peralatan alat berat khususnya peralatan pertambangan dan peralatan penunjang pertambangan.  
+             &emsp;Kualifikasi Jasa Sewa PT UTSG merupakan bidang penyewaan peralatan alat berat khususnya peralatan pertambangan dan peralatan penunjang pertambangan.  
             </p>
             <br>
 
@@ -199,7 +165,7 @@
               2. <b>Wet Rent</b> Include (Operator & Maintenance)
 
              <br>
-             <a style="font-family:'Roboto', sans-serif; margin-top: 10px; text-transform: uppercase; font-weight: 500; font-size: 14px; letter-spacing: 1px; display: inline-block; padding: 10px 28px; border-radius: 20px; transition: 0.5s;color: #fff;background: #106eea;"> Pengalaman Project </a>
+             <a class="big-btn"> Pengalaman Project </a>
             </p>
           </div>
         </div>
@@ -212,7 +178,10 @@
       <div class="container" data-aos="zoom-in" >
 
         <div class="section-title">
+          <br>
+          <h2>CLIENT</h2>
           <h3> Our Satisfied <span> Client </span></h3>
+
         </div>
 
         <div class="marquee jus">
@@ -274,6 +243,7 @@
             </li>          
           </ul>
         </div>
+        <br>
 
       </div>
     </section>
@@ -284,139 +254,30 @@
 
         <div class="section-title" >
           <h2>OUR TEAMS</h2>
-          <h3>BOARD OF <span>DIRECTORS</span> & <span>BOD -1</span> </h3>
+          <h3>Struktur <span> Organisasi </span> </h3>
           <p>Struktur organisasi terpenting diperusahaan kami yang di isi oleh orang-orang yang kompeten & berpengalaman dalam bidangnya.</p> 
         </div>
+
+
 
         <div class="row">
 
           <div class="col-lg-12 col-md-12"  data-aos="fade-up" data-aos-delay="200">
             <div class="row" style="justify-content: center;">
 
-              <div class="col-lg-3 col-md-3 d-flex align-items-stretch " style="justify-content: center; " data-aos="fade-up" data-aos-delay="200">
-                <div class="member">
-                  <div class="member-img">
-                    <img src="<?=base_url();?>asset/img/team/1.JPG" class="img-fluid" alt="">
+               
+                  <div class="col-xl-12">
+                    <div class="col-lg-12" data-aos="fade-right" data-aos-delay="100" >
+                      <img style="max-width:100%; max-height: 100%;" src="<?=base_url();?>asset/img/Struktur_organisasi.png" class="img-fluid" alt="">
+                    </div>
                   </div>
-                  <div class="member-info">
-                    <h4>DONY PRASETYO</h4>
-                    <span>PRESIDENT DIRECTOR </span>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-3 col-md-3 d-flex align-items-stretch " style="justify-content: center; " data-aos="fade-up" data-aos-delay="200">
-                <div class="member">
-                  <div class="member-img">
-                    <img src="<?=base_url();?>asset/img/team/2.JPG" class="img-fluid" alt="">
-                  </div>
-                  <div class="member-info">
-                    <h4>BUDI WAHYUDARSONO C, SE, CA</h4>
-                    <span>DIRECTOR</span>
-                  </div>
-                </div>
-              </div>
 
             </div>
-          </div>
 
-           <div class="col-lg-3 col-md-3 d-flex align-items-stretch " style="justify-content: center;"  data-aos="fade-up" data-aos-delay="100">
-            <div class="member">
-              <div class="member-img">
-                <img src="<?=base_url();?>asset/img/team/3.JPG" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <h4>WIWIT DWI WIDYATMOKO</h4>
-                <span>Operation Division Head</span>
-              </div>
-            </div>
           </div>
-
-          <div class="col-lg-3 col-md-3 d-flex align-items-stretch " style="justify-content: center; " data-aos="fade-up" data-aos-delay="200">
-            <div class="member">
-              <div class="member-img">
-                <img src="<?=base_url();?>asset/img/team/4.JPG" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <h4>ACHMAD SIRRUL ATHO'</h4>
-                <span>HC & Legal Division Head</span>
-              </div>
-            </div>
-          </div>
-
-           <div class="col-lg-3 col-md-3 d-flex align-items-stretch " style="justify-content: center;"  data-aos="fade-up" data-aos-delay="100">
-            <div class="member">
-              <div class="member-img">
-                <img src="<?=base_url();?>asset/img/team/5.JPG" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <h4>RM HENDRA HADIWIJAYA</h4>
-                <span>Corporate Strategic & Technology Department Head</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-3 d-flex align-items-stretch " style="justify-content: center; " data-aos="fade-up" data-aos-delay="200">
-            <div class="member">
-              <div class="member-img">
-                <img src="<?=base_url();?>asset/img/team/6.JPG" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <h4>HARIYANTO</h4>
-                <span>Engineering & Project Control Department Head</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-3 d-flex align-items-stretch " style="justify-content: center;"  data-aos="fade-up" data-aos-delay="100">
-            <div class="member">
-              <div class="member-img">
-                <img src="<?=base_url();?>asset/img/team/7.JPG" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <h4>TAUFIKUR RACHMAN</h4>
-                <span>Corporate Finance & Accounting Department Head</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-3 d-flex align-items-stretch " style="justify-content: center; " data-aos="fade-up" data-aos-delay="200">
-            <div class="member">
-              <div class="member-img">
-                <img src="<?=base_url();?>asset/img/team/8.JPG" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <h4>AGUS WIDJAKSONO</h4>
-                <span>Corporate Asset & Rental Management Department Head</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-3 d-flex align-items-stretch " style="justify-content: center; " data-aos="fade-up" data-aos-delay="200">
-            <div class="member">
-              <div class="member-img">
-                <img src="<?=base_url();?>asset/img/team/9.JPG" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <h4>AFAN MAHMUD</h4>
-                <span>Procurement Department Head</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-3 d-flex align-items-stretch " style="justify-content: center; " data-aos="fade-up" data-aos-delay="200">
-            <div class="member">
-              <div class="member-img">
-                <img src="<?=base_url();?>asset/img/team/10.JPG" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <h4>NOVITA ELVI K.</h4>
-                <span>Internal Audit Department Head</span>
-              </div>
-            </div>
-          </div>
-
         </div>
-
       </div>
+
     </section><!-- End Team Section -->
 
     <!-- ======= Services Section ======= -->
@@ -424,9 +285,10 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
+          <h2>SYSTEM MANAGEMENT</h2>
           <!-- <h2>Services</h2> -->
-          <h3><span>MANAGEMENT SYSTEM</span></h3>
-          <p>PENERAPAN SISTEM MANAGEMENT K3</p>
+          <h3>PENERAPAN SISTEM <span>MANAGEMENT K3</span></h3>
+          <p></p>
         </div>
 
         <div class="row justify-content-center">
@@ -543,12 +405,12 @@
     <!-- End Portfolio Section -->
     
     <!-- ======= News Section ======= -->
-    <section id="news" class="featured-services">
+    <section id="news" class="featured-services news">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
           <h2>News</h2>
-          <p>Berita terkini di lingkungan PT UTSG</p>
+           <h3>Berita terkini <span>Seputar UTSG</span></h3>
         </div>
         <div class="row">
           <div class="col-lg-12">
@@ -639,7 +501,7 @@
                     <h5 class="title-news font-weight-600 mt-3 card-title">
                       PT UTSG Raih Dua Penghargaan Good Mining Practice dari Kementrian ESDM
                     </h5>
-                    <p id="news4" class="desc-news fs-15 font-weight-normal" style="">
+                    <p id="news4" class="desc-news fs-15 font-weight-normal">
                       PT United Tractors Semen Gresik (UTSG) sukses meraih dua penghargaan pada ajang 
                       Penghargaan Penerapan Kaidah Teknik Pertambangan Mineral dan 
                       Batubara yang Baik (Good Mining Practice Award-GMP) tahun 2021. 
@@ -654,7 +516,7 @@
           </div>
         </div>
         <div class="d-grid gap-2 d-md-flex justify-content-md-end">
-          <a href="<?=base_url();?>user/news/1" style="font-family:'Roboto', sans-serif; margin-top: 10px; text-transform: uppercase; font-weight: 500; font-size: 14px; letter-spacing: 1px; display: inline-block; padding: 10px 28px; border-radius: 20px; transition: 0.5s;color: #fff;background: #106eea;text-align: center;"> View All News </a>
+          <a href="<?=base_url();?>user/news/1" class="big-btn"> View All News </a>
         </div>
       </div>
     </section>
