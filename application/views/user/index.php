@@ -268,7 +268,7 @@
                
                   <div class="col-xl-12">
                     <div class="col-lg-12" data-aos="fade-right" data-aos-delay="100" >
-                      <img style="max-width:100%; max-height: 100%;" src="<?=base_url();?>asset/img/Struktur_organisasi.png" class="img-fluid" alt="">
+                      <img style="max-width:100%; max-height: 100%;" src="<?=base_url();?>asset/img/so-r-2.png" class="img-fluid" alt="">
                     </div>
                   </div>
 
