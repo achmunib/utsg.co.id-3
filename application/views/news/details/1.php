@@ -27,59 +27,16 @@
                 <div class="sn-container">
                   <div class="sn-img">
                     <img 
-                      src="<?=base_url();?>asset\img\news\zero-accident-2020kemenaker-ri.jpeg" 
+                      src="https://10.30.8.192/insapputsg.co.id/asset/img/news/<?= $detail['news']['lampiran']; ?>" 
                       alt="banner"
                       class="img-fluid rounded mx-auto d-block"
                     />
                   </div>
                   <div class="sn-content">
                     <h1 class="sn-title">
-                      PT UTSG terima Penghargaan Zero Accident dari KEMENAKER RI
+                      <?= $detail['news']['judul']; ?>
                     </h1>
-                    <p>
-                      PT United Tractors Semen Gresik kembali mendapatkan penghargaan di bidang 
-                      keselamatan dan kesehatan kerja (K3) yaitu, penghargaan nihil kecelakaan kerja 
-                      (Zero Accident Award) dari Kementrian Ketenagakerjaan (Kemenaker) RI.
-                    </p>
-                    <p>
-                      Setelah mendapatkan penghargaan zero accident dari Gubernur Jawa Timur di awal tahun 2021, 
-                      di tahun yang sama tepatnya di penghujung tahun 2021 kembali UTSG meraih penghargaan 
-                      zero accident yang kali ini diberikan melalui Kementrian Ketenagakerjaan RI. 
-                      Penghargaan tersebut dinobatkan kepada UTSG atas capaian 8.759.756 jam kerja orang tanpa 
-                      kecelakaan kerja, terhitung sejak tanggal 01 November 2016 s.d 31 Oktober 2020. 
-                    </p>
-                    <p>
-                      Penghargaan Zero Accident Award diberikan kepada Perusahaan dengan ketentuan, 
-                      tidak pernah terjadi kecelakaan kerja yang menghilangkan waktu kerja 
-                      selama minimal 3 ( tiga ) tahun berturut-turut.
-                    </p>
-                    <p>
-                      Menurut Wiwit Dwi Widyatmoko selaku HC & Legal Division Head PT.UTSG mengungkapkan, 
-                      Bahwasanya hal tersebut tidak terlepas dari komitmen manajemen terkait penerapan K3 
-                      di setiap bisnisproses perusahaan. Sebagai bentuk wujud komiten dimana di tahun 2021 
-                      UTSG juga telah memperbaruhi beberapa sertifikasi diantaranya : 
-                      SMK3 berdasarkan PP 50 Tahun 2013, ISO 9001:2015, ISO 14001:2015, dan ISO 45001:2018.
-                    </p>
-                    <p>
-                      “Kami sangat berterima kasih atas penghargaan ini, pada dasarnya pengembangan 
-                      program-program safety di perusahaan, bukan sekedar memenuhi persyaratan perundangan saja, 
-                      tapi juga sebagai wujud tanggung-jawab moral sebagai pengelola perusahaan dalam memberikan 
-                      perlindungan terhadap pekerja,” ungkap pria yang akrab disapa wiwit, saat dijumpai dan 
-                      berdiskusi dengan awak media.
-                    </p>
-                    <p>
-                      Sementara itu dimomen bersamaan, Budi Wahyudarsono C. selaku Director UTSG menyampaikan 
-                      harapan, kedepannya, bahwa UTSG dapat mempertahankan pencapaian yang telah diraih dan 
-                      terus meningkatkan penerapan SMK3 di lingkungan kerja perusahaan. 
-                    </p>
-                    <p>
-                      “Penghargaan ini merupakan apresiasi bagi perusahaan yang terus menerapkan Sistem 
-                      Manajemen Keselamatan dan Kesehatan Kerja. Penerapan Sistem Manajemen Keselamatan dan 
-                      Kesehatan Kerja (SMK3) yang baik merupakan salah satu cara untuk menekan angka kecelakaan 
-                      di tempat kerja. Bila seluruh potensi bahaya yang ada berhasil dikendalikan sampai batas 
-                      standar aman, maka akan tercipta kondisi kerja yang nyaman, aman, dan sehat. 
-                      Sehingga proses kerja dapat berjalan dengan lancer”, ungkap Budi Wahyu (Director UTSG).
-                    </p>
+                     <?= $detail['news']['isi_berita']; ?>
                   </div>
                 </div>
               </div>
@@ -87,81 +44,35 @@
                 <h2 class="mb-4 font-weight-600 latest-big-news">
                   Latest news
                 </h2>
-                <div class="row">
-                  <div class="col-sm-12">
-                    <div class="border-bottom pb-4 pt-4">
-                      <div class="row">
-                        <div class="col-sm-8">
-                          <h5 class="font-weight-600 mb-1 title-news">
-                            PT UTSG terima Penghargaan Zero Accident dari KEMENAKER RI
-                          </h5>
-                          <p class="fs-13 text-muted mb-0">
-                            11 Maret 2022
-                          </p>
-                        </div>
-                        <div class="col-sm-4">
-                          <div class="image-hover">
-                            <img
-                              src="<?=base_url();?>asset\img\news\zero-accident-2020kemenaker-ri.jpeg"
-                              alt="banner"
-                              class="img-fluid"
-                            />
+                <?php if (count($detail['lates_news']) > 0) : ?>
+                  <?php foreach ($detail['lates_news'] as $d) : ?>
+                    <div class="row">
+                      <div class="col-sm-12">
+                        <div class="border-bottom pb-4 pt-4">
+                          <div class="row">
+                            <div class="col-sm-8">
+                              <h5 class="font-weight-600 mb-1 title-news">
+                                <?= $d['judul']; ?>
+                              </h5>
+                              <p class="fs-13 text-muted mb-0">
+                                <?= $d['tanggal']; ?>
+                              </p>
+                            </div>
+                            <div class="col-sm-4">
+                              <div class="image-hover">
+                                <img
+                                  src="https://10.30.8.192/insapputsg.co.id/asset/img/news/<?= $d['lampiran']; ?>"
+                                  alt="banner"
+                                  class="img-fluid"
+                                />
+                              </div>
+                            </div>
                           </div>
                         </div>
                       </div>
                     </div>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-sm-12">
-                    <div class="border-bottom pb-4 pt-4">
-                      <div class="row">
-                        <div class="col-sm-8">
-                          <h5 class="font-weight-600 mb-1 title-news">
-                            Penghargaan Mitra Terbaik PWI                            
-                          </h5>
-                          <p class="fs-13 text-muted mb-0">
-                            11 Maret 2022
-                          </p>
-                        </div>
-                        <div class="col-sm-4">
-                          <div class="image-hover">
-                            <img
-                              src="<?=base_url();?>asset\img\news\pwi.png"
-                              alt="banner"
-                              class="img-fluid"
-                            />
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-sm-12">
-                    <div class="pt-4">
-                      <div class="row">
-                        <div class="col-sm-8">
-                          <h5 class="font-weight-600 mb-1 title-news">
-                            Penghargan Zero Accident Gubernur Jawa Timur
-                          </h5>
-                          <p class="fs-13 text-muted mb-0">
-                            11 Maret 2022
-                          </p>
-                        </div>
-                        <div class="col-sm-4">
-                          <div class="image-hover">
-                            <img
-                              src="<?=base_url();?>asset\img\news\zero-accidenta-2020-jatim.jpeg"
-                              alt="banner"
-                              class="img-fluid"
-                            />
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
+                  <?php endforeach; ?>
+                <?php endif; ?>
                 <div class="trending">
                   <h2 class="mb-4 font-weight-600 latest-big-news">
                     Big News
@@ -169,16 +80,16 @@
                   <div class="mb-4">
                     <div class="image-hover">
                       <img
-                        src="<?=base_url();?>asset\img\news\good-mining-practice.jpeg"
+                        src="https://10.30.8.192/insapputsg.co.id/asset/img/news/<?= $detail['big_news']['lampiran']; ?>"
                         alt="banner"
                         class="img-fluid"
                       />
                     </div>
                     <h3 class="mt-3 font-weight-600 title-news-highlight">
-                      PT UTSG Raih Dua Penghargaan Good Mining Practice dari Kementrian ESDM
+                      <?= $detail['big_news']['judul']; ?>
                     </h3>
                     <p class="fs-13 text-muted mb-0">
-                      11 Maret 2022
+                      <?= $detail['big_news']['tanggal']; ?>
                     </p>
                   </div>
                 </div>

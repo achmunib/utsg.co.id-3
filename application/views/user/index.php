@@ -415,108 +415,36 @@
         <div class="row">
           <div class="col-lg-12">
             <div class="row">
-              <div class="col-sm-3 mb-5 mb-sm-2">
-                <div class="card">
-                  <div class="position-relative image-hover">
-                    <img
-                      src="<?=base_url();?>asset\img\news\zero-accident-2020kemenaker-ri.jpeg"
-                      class="img-fluid card-img-top rounded mx-auto d-block"
-                      alt="news-zero-accident-2020kemenaker-ri"
-                      style="max-width: 300px; height: 210px"
-                    />
-                  </div>
-                  <div class="card-body">
-                    <h5 class="title-news font-weight-600 mt-3 card-title">
-                      PT UTSG terima Penghargaan Zero Accident dari KEMENAKER RI
-                    </h5>
-                    <p id="news1" class="desc-news fs-15 font-weight-normal">
-                      PT UTSG kembali mendapatkan penghargaan di bidang keselamatan dan 
-                      kesehatan kerja (K3) yaitu, penghargaan nihil kecelakaan kerja (Zero Accident Award) dari 
-                      Kementrian Ketenagakerjaan (Kemenaker) RI.
-                    </p>
-                    <a href="<?=base_url();?>user/detail_news/1" class="read-more">Read more...</a>
-                  </div>
-                </div>
-              </div>
-              <div class="col-sm-3 mb-5 mb-sm-2">
-                <div class="card">
-                  <div class="position-relative image-hover">
-                    <img
-                      src="<?=base_url();?>asset\img\news\pwi.png"
-                      class="img-fluid card-img-top rounded mx-auto d-block"
-                      alt="world-news"
-                      style="max-width: 300px; height: 210px"
-                    />
-                  </div>
-                  <div class="card-body">
-                    <h5 class="title-news font-weight-600 mt-3 card-title">
-                      Penghargaan Mitra Terbaik PWI
-                    </h5>
-                    <p id="news2" class="desc-news fs-15 font-weight-normal">
-                      PT UTSG dinobatkan menjadi penerima PWI Award 2021 untuk kategori penghargaan Mitra
-                      Terbaik. Penghargaan tersebut  langsung diserahkan oleh ketua PWI Kabupaten Tuban kepada 
-                      Section Head CSR & Humas UTSG.
-                    </p>
-                    <a href="<?=base_url();?>user/detail_news/2" class="read-more">Read more...</a>
+            <?php if (count($news) > 0) : ?>
+              <?php foreach ($news as $n) : ?>
+                <div class="col-sm-3 mb-5 mb-sm-2">
+                  <div class="card">
+                    <div class="position-relative image-hover">
+                      <img
+                        src="https://10.30.8.192/insapputsg.co.id/asset/img/news/<?= $n['lampiran']; ?>"
+                        class="img-fluid card-img-top rounded mx-auto d-block"
+                        alt="news-zero-accident-2020kemenaker-ri"
+                        style="max-width: 300px; height: 210px"
+                      />
+                    </div>
+                    <div class="card-body">
+                      <h5 class="title-news font-weight-600 mt-3 card-title">
+                        <?= $n['judul']; ?>
+                      </h5>
+                      <p id="news1" class="desc-news fs-15 font-weight-normal">
+                        <?= strip_tags($n['isi_berita']); ?>
+                      </p>
+                      <a href="<?=base_url();?>user/detail_news/<?= $n['id']; ?>" class="read-more">Read more...</a>
+                    </div>
                   </div>
                 </div>
-              </div>
-              <div class="col-sm-3 mb-5 mb-sm-2">
-                <div class="card">
-                  <div class="position-relative image-hover">
-                    <img
-                      src="<?=base_url();?>asset\img\news\zero-accidenta-2020-jatim.jpeg"
-                      class="img-fluid card-img-top rounded mx-auto d-block"
-                      alt="world-news"
-                      style="max-width: 300px; height: 210px"
-                    />
-                  </div>
-                  <div class="card-body">
-                    <h5 class="title-news font-weight-600 mt-3 card-title">
-                      Penghargan Zero Accident Gubernur Jawa Timur
-                    </h5>
-                    <p id="news3" class="desc-news fs-15 font-weight-normal">
-                      PT UTSG kembali menerima penghargaan Keselamatan 
-                      dan Kesehatan Kerja (K3) dari Gubernur Jawa Timur.
-                      Penyerahan penghargaan bersama 36 Perusahaan itu dilakukan secara langsung oleh 
-                      Bupati, Wakil Bupati dan Sekda, disaksikan oleh 
-                      Kepala Dinas Penanaman Modal Pelayanan Terpadu Satu Pintu dan 
-                      Tenaga Kerja (DPM PTSP dan Naker) Kabupaten Tuban. 
-                    </p>
-                    <a href="<?=base_url();?>user/detail_news/3" class="read-more">Read more...</a>                
-                  </div>
-                </div>
-              </div>
-              <div class="col-sm-3 mb-5 mb-sm-2">
-                <div class="card">
-                  <div class="position-relative image-hover">
-                    <img
-                      src="<?=base_url();?>asset\img\news\good-mining-practice.jpeg"
-                      class="img-fluid card-img-top rounded mx-auto d-block"
-                      alt="world-news"
-                      style="max-width: 300px; height: 210px"
-                    />
-                  </div>
-                  <div class="card-body">
-                    <h5 class="title-news font-weight-600 mt-3 card-title">
-                      PT UTSG Raih Dua Penghargaan Good Mining Practice dari Kementrian ESDM
-                    </h5>
-                    <p id="news4" class="desc-news fs-15 font-weight-normal">
-                      PT United Tractors Semen Gresik (UTSG) sukses meraih dua penghargaan pada ajang 
-                      Penghargaan Penerapan Kaidah Teknik Pertambangan Mineral dan 
-                      Batubara yang Baik (Good Mining Practice Award-GMP) tahun 2021. 
-                      Penghargaan diberikan oleh Direktorat Jenderal (Dirjen) Mineral dan 
-                      Batubara (Minerba) Kementerian Energi dan Sumber Daya Mineral (ESDM) Republik Indonesia.
-                    </p>
-                    <a href="<?=base_url();?>user/detail_news/4" class="read-more">Read more...</a>                
-                  </div>
-                </div>
-              </div>
+              <?php endforeach; ?>
+            <?php endif; ?>
             </div>
           </div>
         </div>
         <div class="d-grid gap-2 d-md-flex justify-content-md-end">
-          <a href="<?=base_url();?>user/news/1" class="big-btn"> View All News </a>
+          <a href="<?=base_url();?>user/news" class="big-btn"> View All News </a>
         </div>
       </div>
     </section>
